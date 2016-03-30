@@ -1,7 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
-#DEFINE STR_MIN 3
-#DEFINE STR_MAX 16
+#include <string.h>
+#include <ctype.h>
+#define STR_MIN 3
+#define STR_MAX 16
 
 typedef struct TrieNode {
 	int isWord;
@@ -17,15 +19,16 @@ int main(void)
     int numWords, i;
     char temp[17];
 
-    FILE *ifp = fopen("dictionary.txt", "r")
+    TrieNode *root = createTrieNode();
+    FILE *ifp = fopen("sampledictionary.txt", "r");
 
     fscanf(ifp, "%d",&numWords);
 
     for (i = 0; i < numWords; i++)
     {
-
+        fscanf(ifp, "%s", temp);
+        root = insertString(root, temp);
     }
-
 
 
 	return 0;
@@ -49,15 +52,18 @@ TrieNode *insertString(TrieNode *root, char *string)
 {
     int i, index;
     int length = strlen(string);
-    TrieNode *temp;
+    TrieNode *temp = root;
 
     if (root == NULL)
-        root = createTrieNode();
+        root = temp = createTrieNode();
 
+    printf("Current String: %s\n", string);
     for (i = 0; i < length; i++)
     {
         index = tolower(string[i] - 'a');
-        temp = temp->children[index];
+        printf("index: %d\n", index);
+        temp = temp->character[index];
+        printf("Added %c\n" ,index + 'a');
     }
 
     temp->isWord = 1;
@@ -65,6 +71,7 @@ TrieNode *insertString(TrieNode *root, char *string)
     return root;
 }
 
+/*
 void destroyTrie(TrieNode *root)
 {
     int i;
@@ -72,4 +79,4 @@ void destroyTrie(TrieNode *root)
         return;
 
     for (i = 0; i < 26; i++)
-}
+} */
