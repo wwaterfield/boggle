@@ -8,8 +8,8 @@
 
 // For DX and DY Arrays.
 const int DX_SIZE = 8;
-const int DX[] = {-1,-1,-1,0,1,1,1,0};
-const int DY[] = {-1,0,1,1,1,0,-1,-1};
+const int DX[] = {-1,-1,-1,0,0,1,1,1};
+const int DY[] = {-1,0,1,-1,1,-1,0,1};
 
 typedef struct TrieNode {
 	int isWord;
@@ -77,8 +77,8 @@ int main(void)
             }
 
 		}
+		printf("MADE IT");
     }
-
 
 
 	return 0;
@@ -90,17 +90,18 @@ void findWords(TrieNode *root, int **visitedArray, char **board, int curX, int c
 
 	string[k] = board[curX][curY];
 	string[k+1] = '\0';
-	visitedArray[curX][curY] = 1;
+	visitedArray[curX][curY]=-1;
 
-    print2DIntArray(visitedArray);
+    //print2DIntArray(visitedArray);
 
-    printf("Is Prefix?: %s \n", string);
+    //printf("Is Prefix?: %s \n", string);
     if (isPrefix(root, string))
     {
-        printf("Yes %s is a prefix\n", string);
+        visitedArray[curX][curY] = 1;
+        //printf("Yes %s is a prefix\n", string);
         if(isWord(root, string))
         {
-            printf("YES %s is a word\n", string);
+            //printf("YES %s is a word\n", string);
             printf("%s\n", string);
             //visitedArray[curX][curY] = -1;
         }
@@ -120,6 +121,8 @@ void findWords(TrieNode *root, int **visitedArray, char **board, int curX, int c
             continue;
         findWords(root, visitedArray, board, newX, newY, k+1, string);
     }
+    visitedArray[curX][curY] = -1;
+    return;
 }
 
 // Mallocs space and initializes a TrieNode.

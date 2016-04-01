@@ -2,5624 +2,636 @@ c a s e
 m o p i 
 s t r e 
 n a p d 
-1	-1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: c 
-Yes c is a prefix
-1	1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: ca 
-Yes ca is a prefix
-1	1	1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: cas 
-Yes cas is a prefix
-1	1	1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: case 
-Yes case is a prefix
-YES case is a word
 case
-1	1	1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: casei 
-Yes casei is a prefix
-1	1	1	1	
--1	-1	-1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: caseie 
-1	1	1	1	
--1	-1	-1	1	
--1	-1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: caseir 
-1	1	1	1	
--1	-1	1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: caseip 
-1	1	1	1	
--1	-1	1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: casep 
-1	1	1	1	
--1	-1	1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: casp 
-1	1	1	1	
--1	1	-1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: caso 
-1	1	1	1	
--1	-1	1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: cap 
-Yes cap is a prefix
-YES cap is a word
-cap
-1	1	1	1	
--1	-1	1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: cape 
-Yes cape is a prefix
-YES cape is a word
-cape
-1	1	1	1	
--1	-1	1	1	
--1	-1	-1	1	
--1	-1	-1	1	
-Is Prefix?: caped 
-Yes caped is a prefix
-YES caped is a word
-caped
-1	1	1	1	
--1	-1	1	1	
--1	-1	1	1	
--1	-1	-1	1	
-Is Prefix?: capedr 
-1	1	1	1	
--1	-1	1	1	
--1	-1	-1	1	
--1	-1	1	1	
-Is Prefix?: capedp 
-1	1	1	1	
--1	-1	1	1	
--1	-1	-1	1	
--1	-1	1	1	
-Is Prefix?: capep 
-1	1	1	1	
--1	-1	1	1	
--1	-1	1	1	
--1	-1	-1	1	
-Is Prefix?: caper 
-Yes caper is a prefix
-YES caper is a word
-caper
-1	1	1	1	
--1	1	1	1	
--1	-1	1	1	
--1	-1	-1	1	
-Is Prefix?: capero 
-1	1	1	1	
--1	-1	1	1	
--1	-1	1	1	
--1	-1	1	1	
-Is Prefix?: caperp 
-1	1	1	1	
--1	-1	1	1	
--1	-1	1	1	
--1	1	-1	1	
-Is Prefix?: capera 
-1	1	1	1	
--1	-1	1	1	
--1	1	1	1	
--1	-1	-1	1	
-Is Prefix?: capert 
-1	1	1	1	
--1	-1	1	1	
--1	1	1	1	
--1	-1	-1	1	
-Is Prefix?: capt 
-Yes capt is a prefix
-1	1	1	1	
-1	-1	1	1	
--1	1	1	1	
--1	-1	-1	1	
-Is Prefix?: captm 
-1	1	1	1	
--1	1	1	1	
--1	1	1	1	
--1	-1	-1	1	
-Is Prefix?: capto 
-Yes capto is a prefix
-1	1	1	1	
--1	1	1	1	
-1	1	1	1	
--1	-1	-1	1	
-Is Prefix?: captos 
-1	1	1	1	
-1	1	1	1	
--1	1	1	1	
--1	-1	-1	1	
-Is Prefix?: captom 
-1	1	1	1	
--1	1	1	1	
--1	1	1	1	
--1	-1	1	1	
-Is Prefix?: captp 
-1	1	1	1	
--1	1	1	1	
--1	1	1	1	
--1	1	-1	1	
-Is Prefix?: capta 
-Yes capta is a prefix
-1	1	1	1	
--1	1	1	1	
-1	1	1	1	
--1	1	-1	1	
-Is Prefix?: captas 
-1	1	1	1	
--1	1	1	1	
--1	1	1	1	
--1	1	1	1	
-Is Prefix?: captap 
-1	1	1	1	
--1	1	1	1	
--1	1	1	1	
-1	1	-1	1	
-Is Prefix?: captan 
-Yes captan is a prefix
-YES captan is a word
-captan
-1	1	1	1	
--1	1	1	1	
-1	1	1	1	
-1	1	-1	1	
-Is Prefix?: captans 
-Yes captans is a prefix
-YES captans is a word
-captans
-1	1	1	1	
-1	1	1	1	
-1	1	1	1	
-1	1	-1	1	
-Is Prefix?: captansm 
-1	1	1	1	
-1	1	1	1	
-1	1	1	1	
-1	1	-1	1	
-Is Prefix?: cam 
-Yes cam is a prefix
-YES cam is a word
 cam
--1	1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: a 
-Yes a is a prefix
--1	1	1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: as 
-Yes as is a prefix
--1	1	1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: ase 
-Yes ase is a prefix
--1	1	1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: asei 
--1	1	1	1	
--1	-1	1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: asep 
-Yes asep is a prefix
--1	1	1	1	
--1	-1	1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: asepi 
--1	1	1	1	
--1	-1	1	-1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: asepe 
--1	1	1	1	
--1	-1	1	-1	
--1	-1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: asepr 
--1	1	1	1	
--1	-1	1	-1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: asept 
-Yes asept is a prefix
--1	1	1	1	
-1	-1	1	-1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: aseptm 
--1	1	1	1	
--1	1	1	-1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: asepto 
--1	1	1	1	
--1	-1	1	-1	
--1	1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: aseptr 
--1	1	1	1	
--1	-1	1	-1	
--1	1	-1	-1	
--1	-1	1	-1	
-Is Prefix?: aseptp 
--1	1	1	1	
--1	-1	1	-1	
--1	1	-1	-1	
--1	1	-1	-1	
-Is Prefix?: asepta 
--1	1	1	1	
--1	-1	1	-1	
--1	1	-1	-1	
-1	-1	-1	-1	
-Is Prefix?: aseptn 
--1	1	1	1	
--1	-1	1	-1	
-1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: asepts 
--1	1	1	1	
--1	1	1	-1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: asepo 
--1	1	1	1	
--1	-1	1	1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: asi 
-Yes asi is a prefix
--1	1	1	1	
--1	-1	1	1	
--1	1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: asie 
--1	1	1	1	
--1	-1	1	1	
--1	1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: asir 
--1	1	1	1	
--1	1	1	1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: aso 
-Yes aso is a prefix
-1	1	1	1	
--1	1	1	1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: asoc 
-Yes asoc is a prefix
-1	1	1	1	
-1	1	1	1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: asocm 
-1	1	1	1	
--1	1	1	1	
--1	1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: asor 
-1	1	1	1	
--1	1	1	1	
-1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: asos 
-1	1	1	1	
-1	1	1	1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: asom 
-1	1	1	1	
-1	1	1	1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: am 
-Yes am is a prefix
-1	1	1	1	
-1	1	1	1	
-1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: ams 
--1	-1	1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: s 
-Yes s is a prefix
--1	-1	1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: se 
-Yes se is a prefix
--1	-1	1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: sei 
-Yes sei is a prefix
-YES sei is a word
-sei
--1	-1	1	1	
--1	-1	-1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: seie 
--1	-1	1	1	
--1	-1	-1	1	
--1	-1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: seir 
--1	-1	1	1	
--1	-1	1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: seip 
--1	-1	1	1	
--1	-1	1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: sep 
-Yes sep is a prefix
--1	1	1	1	
--1	-1	1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: sepa 
-Yes sepa is a prefix
--1	1	1	1	
--1	1	1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: sepao 
--1	1	1	1	
-1	-1	1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: sepam 
-1	1	1	1	
--1	-1	1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: sepac 
--1	1	1	1	
--1	-1	1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: sepe 
--1	1	1	1	
--1	-1	1	1	
--1	-1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: sepr 
--1	1	1	1	
--1	-1	1	1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: sept 
-Yes sept is a prefix
-YES sept is a word
-sept
--1	1	1	1	
-1	-1	1	1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: septm 
--1	1	1	1	
--1	1	1	1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: septo 
--1	1	1	1	
--1	-1	1	1	
--1	1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: septr 
--1	1	1	1	
--1	-1	1	1	
--1	1	-1	-1	
--1	-1	1	-1	
-Is Prefix?: septp 
--1	1	1	1	
--1	-1	1	1	
--1	1	-1	-1	
--1	1	-1	-1	
-Is Prefix?: septa 
-Yes septa is a prefix
-YES septa is a word
-septa
--1	1	1	1	
--1	-1	1	1	
-1	1	-1	-1	
--1	1	-1	-1	
-Is Prefix?: septas 
--1	1	1	1	
--1	-1	1	1	
--1	1	1	-1	
--1	1	-1	-1	
-Is Prefix?: septar 
-Yes septar is a prefix
--1	1	1	1	
--1	1	1	1	
--1	1	1	-1	
--1	1	-1	-1	
-Is Prefix?: septaro 
--1	1	1	1	
--1	-1	1	1	
--1	1	1	1	
--1	1	-1	-1	
-Is Prefix?: septare 
--1	1	1	1	
--1	-1	1	1	
--1	1	1	-1	
--1	1	-1	1	
-Is Prefix?: septard 
--1	1	1	1	
--1	-1	1	1	
--1	1	1	-1	
--1	1	1	-1	
-Is Prefix?: septarp 
--1	1	1	1	
--1	-1	1	1	
--1	1	1	-1	
--1	1	1	-1	
-Is Prefix?: septap 
--1	1	1	1	
--1	-1	1	1	
--1	1	1	-1	
-1	1	-1	-1	
-Is Prefix?: septan 
--1	1	1	1	
--1	-1	1	1	
--1	1	1	-1	
-1	1	-1	-1	
-Is Prefix?: septn 
--1	1	1	1	
--1	-1	1	1	
-1	1	1	-1	
--1	1	-1	-1	
-Is Prefix?: septs 
-Yes septs is a prefix
-YES septs is a word
-septs
--1	1	1	1	
-1	-1	1	1	
-1	1	1	-1	
--1	1	-1	-1	
-Is Prefix?: septsm 
--1	1	1	1	
--1	1	1	1	
-1	1	1	-1	
--1	1	-1	-1	
-Is Prefix?: septso 
--1	1	1	1	
--1	-1	1	1	
-1	1	1	-1	
-1	1	-1	-1	
-Is Prefix?: septsn 
--1	1	1	1	
--1	1	1	1	
-1	1	1	-1	
--1	1	-1	-1	
-Is Prefix?: sepo 
-Yes sepo is a prefix
-1	1	1	1	
--1	1	1	1	
-1	1	1	-1	
--1	1	-1	-1	
-Is Prefix?: sepoc 
--1	1	1	1	
-1	1	1	1	
-1	1	1	-1	
--1	1	-1	-1	
-Is Prefix?: sepom 
--1	-1	-1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: e 
-Yes e is a prefix
--1	-1	-1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: ei 
-Yes ei is a prefix
--1	-1	1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: eis 
-Yes eis is a prefix
--1	-1	1	1	
--1	-1	1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: eisp 
--1	-1	1	1	
--1	1	-1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: eiso 
--1	1	1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: eisa 
--1	-1	1	1	
--1	-1	-1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: eie 
--1	-1	1	1	
--1	-1	-1	1	
--1	-1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: eir 
-Yes eir is a prefix
--1	-1	1	1	
--1	1	-1	1	
--1	-1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: eiro 
--1	-1	1	1	
--1	-1	1	1	
--1	-1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: eirp 
--1	-1	1	1	
--1	-1	-1	1	
--1	-1	1	1	
--1	-1	-1	-1	
-Is Prefix?: eire 
-Yes eire is a prefix
--1	-1	1	1	
--1	-1	1	1	
--1	-1	1	1	
--1	-1	-1	-1	
-Is Prefix?: eirep 
--1	-1	1	1	
--1	-1	-1	1	
--1	-1	1	1	
--1	-1	-1	1	
-Is Prefix?: eired 
--1	-1	1	1	
--1	-1	-1	1	
--1	-1	1	1	
--1	-1	1	-1	
-Is Prefix?: eirep 
--1	-1	1	1	
--1	-1	-1	1	
--1	-1	1	1	
--1	-1	-1	1	
-Is Prefix?: eird 
--1	-1	1	1	
--1	-1	-1	1	
--1	-1	1	1	
--1	-1	1	-1	
-Is Prefix?: eirp 
--1	-1	1	1	
--1	-1	-1	1	
--1	-1	1	1	
--1	1	-1	-1	
-Is Prefix?: eira 
--1	-1	1	1	
--1	-1	-1	1	
--1	1	1	1	
--1	-1	-1	-1	
-Is Prefix?: eirt 
--1	-1	1	1	
--1	-1	1	1	
--1	-1	1	1	
--1	-1	-1	-1	
-Is Prefix?: eip 
--1	-1	1	1	
--1	-1	1	1	
--1	-1	1	1	
--1	-1	-1	-1	
-Is Prefix?: ep 
-Yes ep is a prefix
--1	1	1	1	
--1	-1	1	1	
--1	-1	1	1	
--1	-1	-1	-1	
-Is Prefix?: epa 
-Yes epa is a prefix
--1	1	1	1	
--1	1	1	1	
--1	-1	1	1	
--1	-1	-1	-1	
-Is Prefix?: epao 
--1	1	1	1	
-1	-1	1	1	
--1	-1	1	1	
--1	-1	-1	-1	
-Is Prefix?: epam 
-1	1	1	1	
--1	-1	1	1	
--1	-1	1	1	
--1	-1	-1	-1	
-Is Prefix?: epac 
-Yes epac is a prefix
-1	1	1	1	
--1	1	1	1	
--1	-1	1	1	
--1	-1	-1	-1	
-Is Prefix?: epaco 
-1	1	1	1	
-1	-1	1	1	
--1	-1	1	1	
--1	-1	-1	-1	
-Is Prefix?: epacm 
-1	1	1	1	
--1	-1	1	1	
--1	1	1	1	
--1	-1	-1	-1	
-Is Prefix?: ept 
-1	1	1	1	
--1	1	1	1	
--1	-1	1	1	
--1	-1	-1	-1	
-Is Prefix?: epo 
-Yes epo is a prefix
-1	1	1	1	
--1	1	1	1	
--1	1	1	1	
--1	-1	-1	-1	
-Is Prefix?: epot 
-1	1	1	1	
--1	1	1	1	
-1	-1	1	1	
--1	-1	-1	-1	
-Is Prefix?: epos 
-Yes epos is a prefix
-YES epos is a word
-epos
-1	1	1	1	
-1	1	1	1	
-1	-1	1	1	
--1	-1	-1	-1	
-Is Prefix?: eposm 
-1	1	1	1	
--1	1	1	1	
-1	1	1	1	
--1	-1	-1	-1	
-Is Prefix?: epost 
-1	1	1	1	
--1	1	1	1	
-1	-1	1	1	
--1	1	-1	-1	
-Is Prefix?: eposa 
-1	1	1	1	
--1	1	1	1	
-1	-1	1	1	
-1	-1	-1	-1	
-Is Prefix?: eposn 
-1	1	1	1	
-1	1	1	1	
-1	-1	1	1	
--1	-1	-1	-1	
-Is Prefix?: epom 
--1	-1	-1	-1	
-1	-1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: m 
-Yes m is a prefix
-1	-1	-1	-1	
-1	-1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: mc 
--1	1	-1	-1	
-1	-1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: ma 
-Yes ma is a prefix
--1	1	1	-1	
-1	-1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: mas 
-Yes mas is a prefix
-YES mas is a word
-mas
--1	1	1	1	
-1	-1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: mase 
-Yes mase is a prefix
--1	1	1	1	
-1	-1	-1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: masei 
--1	1	1	1	
-1	-1	1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: masep 
--1	1	1	1	
-1	-1	-1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: masi 
--1	1	1	1	
-1	-1	1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: masp 
--1	1	1	1	
-1	1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: maso 
-Yes maso is a prefix
-1	1	1	1	
-1	1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: masoc 
-Yes masoc is a prefix
-1	1	1	1	
-1	1	1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: masop 
-1	1	1	1	
-1	1	-1	-1	
--1	-1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: masor 
-1	1	1	1	
-1	1	-1	-1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: masot 
-1	1	1	1	
-1	1	-1	-1	
-1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: masos 
-1	1	1	1	
-1	1	1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: map 
-Yes map is a prefix
-YES map is a word
-map
-1	1	1	1	
-1	1	1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: mapi 
-1	1	1	1	
-1	1	1	-1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: mape 
-1	1	1	1	
-1	1	1	-1	
--1	-1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: mapr 
-1	1	1	1	
-1	1	1	-1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: mapt 
-1	1	1	1	
-1	1	1	-1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: mt 
-1	1	1	1	
-1	1	1	-1	
-1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: ms 
--1	-1	-1	-1	
--1	1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: o 
-Yes o is a prefix
-1	-1	-1	-1	
--1	1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: oc 
-Yes oc is a prefix
-1	1	-1	-1	
--1	1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: oca 
-Yes oca is a prefix
-YES oca is a word
-oca
-1	1	1	-1	
--1	1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: ocas 
-Yes ocas is a prefix
-YES ocas is a word
-ocas
-1	1	1	1	
--1	1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: ocase 
-1	1	1	-1	
--1	1	-1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: ocasi 
-1	1	1	-1	
--1	1	1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: ocasp 
-1	1	1	-1	
--1	1	1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: ocap 
-1	1	1	-1	
-1	1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: ocam 
-1	1	1	-1	
-1	1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: ocm 
-1	1	1	-1	
--1	1	1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: op 
-Yes op is a prefix
-1	1	1	1	
--1	1	1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: ope 
-Yes ope is a prefix
-YES ope is a word
-ope
-1	1	1	1	
--1	1	1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: opei 
-1	1	1	1	
--1	1	1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: opi 
-Yes opi is a prefix
-1	1	1	1	
--1	1	1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: opie 
-1	1	1	1	
--1	1	1	1	
--1	-1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: opir 
-1	1	1	1	
--1	1	1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: ope 
-Yes ope is a prefix
-YES ope is a word
-ope
-1	1	1	1	
--1	1	1	1	
--1	-1	-1	1	
--1	-1	-1	1	
-Is Prefix?: oped 
-Yes oped is a prefix
-YES oped is a word
-oped
-1	1	1	1	
--1	1	1	1	
--1	-1	1	1	
--1	-1	-1	1	
-Is Prefix?: opedr 
-1	1	1	1	
--1	1	1	1	
--1	-1	-1	1	
--1	-1	1	1	
-Is Prefix?: opedp 
-1	1	1	1	
--1	1	1	1	
--1	-1	-1	1	
--1	-1	1	1	
-Is Prefix?: opep 
-1	1	1	1	
--1	1	1	1	
--1	-1	1	1	
--1	-1	-1	1	
-Is Prefix?: oper 
-Yes oper is a prefix
-1	1	1	1	
--1	1	1	1	
--1	-1	1	1	
--1	-1	1	1	
-Is Prefix?: operp 
-1	1	1	1	
--1	1	1	1	
--1	-1	1	1	
--1	1	-1	1	
-Is Prefix?: opera 
-Yes opera is a prefix
-YES opera is a word
-opera
-1	1	1	1	
--1	1	1	1	
-1	-1	1	1	
--1	1	-1	1	
-Is Prefix?: operas 
-Yes operas is a prefix
-YES operas is a word
-operas
-1	1	1	1	
-1	1	1	1	
-1	-1	1	1	
--1	1	-1	1	
-Is Prefix?: operasm 
-1	1	1	1	
--1	1	1	1	
-1	1	1	1	
--1	1	-1	1	
-Is Prefix?: operast 
-1	1	1	1	
--1	1	1	1	
-1	-1	1	1	
-1	1	-1	1	
-Is Prefix?: operasn 
-1	1	1	1	
--1	1	1	1	
-1	1	1	1	
--1	1	-1	1	
-Is Prefix?: operat 
-Yes operat is a prefix
-1	1	1	1	
-1	1	1	1	
-1	1	1	1	
--1	1	-1	1	
-Is Prefix?: operatm 
-1	1	1	1	
--1	1	1	1	
-1	1	1	1	
--1	1	1	1	
-Is Prefix?: operatp 
-1	1	1	1	
--1	1	1	1	
-1	1	1	1	
-1	1	-1	1	
-Is Prefix?: operatn 
-1	1	1	1	
--1	1	1	1	
-1	1	1	1	
--1	1	1	1	
-Is Prefix?: operap 
-1	1	1	1	
--1	1	1	1	
-1	1	1	1	
-1	1	-1	1	
-Is Prefix?: operan 
-Yes operan is a prefix
-1	1	1	1	
-1	1	1	1	
-1	1	1	1	
-1	1	-1	1	
-Is Prefix?: om 
-Yes om is a prefix
--1	-1	-1	-1	
--1	-1	1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: p 
-Yes p is a prefix
--1	1	-1	-1	
--1	-1	1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: pa 
-Yes pa is a prefix
--1	1	1	-1	
--1	-1	1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: pas 
-Yes pas is a prefix
-YES pas is a word
-pas
--1	1	1	1	
--1	-1	1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: pase 
-Yes pase is a prefix
-YES pase is a word
-pase
--1	1	1	1	
--1	-1	1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: pasei 
--1	1	1	1	
--1	-1	1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: pasi 
--1	1	1	1	
--1	1	1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: paso 
--1	1	1	1	
--1	1	1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: pao 
--1	1	1	1	
-1	-1	1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: pam 
-Yes pam is a prefix
-YES pam is a word
-pam
-1	1	1	1	
-1	-1	1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: pamc 
--1	1	1	1	
-1	1	1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: pamo 
--1	1	1	1	
-1	-1	1	-1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: pamt 
--1	1	1	1	
-1	-1	1	-1	
-1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: pams 
-Yes pams is a prefix
-YES pams is a word
-pams
--1	1	1	1	
-1	1	1	-1	
-1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: pamso 
--1	1	1	1	
-1	-1	1	-1	
-1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: pamst 
--1	1	1	1	
-1	-1	1	-1	
-1	-1	-1	-1	
--1	1	-1	-1	
-Is Prefix?: pamsa 
--1	1	1	1	
-1	-1	1	-1	
-1	-1	-1	-1	
-1	-1	-1	-1	
-Is Prefix?: pamsn 
-1	1	1	1	
-1	-1	1	-1	
-1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: pac 
-Yes pac is a prefix
-YES pac is a word
-pac
-1	1	1	1	
-1	1	1	-1	
-1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: paco 
-1	1	1	1	
-1	-1	1	1	
-1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: pi 
-Yes pi is a prefix
-1	1	1	1	
-1	-1	1	1	
-1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: pie 
-Yes pie is a prefix
-YES pie is a word
-pie
-1	1	1	1	
-1	-1	1	1	
-1	-1	-1	1	
--1	-1	-1	1	
-Is Prefix?: pied 
-Yes pied is a prefix
-YES pied is a word
-pied
-1	1	1	1	
-1	-1	1	1	
-1	-1	1	1	
--1	-1	-1	1	
-Is Prefix?: piedr 
-1	1	1	1	
-1	-1	1	1	
-1	-1	-1	1	
--1	-1	1	1	
-Is Prefix?: piedp 
-1	1	1	1	
-1	-1	1	1	
-1	-1	-1	1	
--1	-1	1	1	
-Is Prefix?: piep 
-Yes piep is a prefix
-1	1	1	1	
-1	-1	1	1	
-1	1	-1	1	
--1	-1	1	1	
-Is Prefix?: piept 
-1	1	1	1	
-1	-1	1	1	
-1	-1	1	1	
--1	-1	1	1	
-Is Prefix?: piepr 
-1	1	1	1	
-1	-1	1	1	
-1	-1	-1	1	
--1	1	1	1	
-Is Prefix?: piepa 
-1	1	1	1	
-1	-1	1	1	
-1	-1	1	1	
--1	-1	1	1	
-Is Prefix?: pier 
-Yes pier is a prefix
-YES pier is a word
-pier
-1	1	1	1	
-1	1	1	1	
-1	-1	1	1	
--1	-1	1	1	
-Is Prefix?: piero 
-Yes piero is a prefix
-1	1	1	1	
-1	1	1	1	
-1	1	1	1	
--1	-1	1	1	
-Is Prefix?: pierot 
-1	1	1	1	
-1	1	1	1	
-1	-1	1	1	
--1	1	1	1	
-Is Prefix?: piera 
-1	1	1	1	
-1	1	1	1	
-1	1	1	1	
--1	-1	1	1	
-Is Prefix?: piert 
-1	1	1	1	
-1	1	1	1	
-1	1	1	1	
--1	-1	1	1	
-Is Prefix?: pt 
-Yes pt is a prefix
-1	1	1	1	
-1	1	1	1	
-1	1	1	1	
--1	1	1	1	
-Is Prefix?: pta 
-Yes pta is a prefix
-1	1	1	1	
-1	1	1	1	
-1	1	1	1	
-1	1	1	1	
-Is Prefix?: ptan 
-1	1	1	1	
-1	1	1	1	
-1	1	1	1	
-1	1	1	1	
-Is Prefix?: ptn 
--1	-1	-1	-1	
--1	-1	-1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: i 
-Yes i is a prefix
--1	-1	1	-1	
--1	-1	-1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: is 
-Yes is is a prefix
--1	-1	1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: ise 
-Yes ise is a prefix
--1	-1	1	1	
--1	-1	1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: isep 
--1	-1	1	1	
--1	-1	1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: isp 
--1	-1	1	1	
--1	1	-1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: iso 
-Yes iso is a prefix
-1	-1	1	1	
--1	1	-1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: isoc 
-Yes isoc is a prefix
-1	1	1	1	
--1	1	-1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: isoca 
-Yes isoca is a prefix
-1	1	1	1	
--1	1	1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: isocap 
-1	1	1	1	
-1	1	-1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: isocam 
-1	1	1	1	
-1	1	-1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: isocm 
-1	1	1	1	
--1	1	1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: isop 
-Yes isop is a prefix
-1	1	1	1	
--1	1	1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: isope 
-1	1	1	1	
--1	1	1	1	
--1	-1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: isopr 
-Yes isopr is a prefix
-1	1	1	1	
--1	1	1	1	
--1	-1	1	1	
--1	-1	-1	-1	
-Is Prefix?: isopre 
-Yes isopre is a prefix
-1	1	1	1	
--1	1	1	1	
--1	-1	1	1	
--1	-1	-1	1	
-Is Prefix?: isopred 
-1	1	1	1	
--1	1	1	1	
--1	-1	1	1	
--1	-1	1	-1	
-Is Prefix?: isoprep 
-1	1	1	1	
--1	1	1	1	
--1	-1	1	1	
--1	-1	-1	1	
-Is Prefix?: isoprd 
-1	1	1	1	
--1	1	1	1	
--1	-1	1	1	
--1	-1	1	-1	
-Is Prefix?: isoprp 
-1	1	1	1	
--1	1	1	1	
--1	-1	1	1	
--1	1	-1	-1	
-Is Prefix?: isopra 
-1	1	1	1	
--1	1	1	1	
--1	1	1	1	
--1	-1	-1	-1	
-Is Prefix?: isoprt 
-1	1	1	1	
--1	1	1	1	
--1	1	1	1	
--1	-1	-1	-1	
-Is Prefix?: isopt 
-1	1	1	1	
--1	1	1	1	
--1	1	1	1	
--1	-1	-1	-1	
-Is Prefix?: isot 
-Yes isot is a prefix
-1	1	1	1	
-1	1	1	1	
--1	1	1	1	
--1	-1	-1	-1	
-Is Prefix?: isotm 
-1	1	1	1	
--1	1	1	1	
--1	1	1	1	
--1	-1	1	-1	
-Is Prefix?: isotp 
-1	1	1	1	
--1	1	1	1	
--1	1	1	1	
--1	1	-1	-1	
-Is Prefix?: isota 
-Yes isota is a prefix
-1	1	1	1	
--1	1	1	1	
-1	1	1	1	
--1	1	-1	-1	
-Is Prefix?: isotas 
-1	1	1	1	
--1	1	1	1	
--1	1	1	1	
--1	1	1	-1	
-Is Prefix?: isotap 
-1	1	1	1	
--1	1	1	1	
--1	1	1	1	
-1	1	-1	-1	
-Is Prefix?: isotan 
-1	1	1	1	
--1	1	1	1	
--1	1	1	1	
-1	1	-1	-1	
-Is Prefix?: isotn 
-1	1	1	1	
--1	1	1	1	
-1	1	1	1	
--1	1	-1	-1	
-Is Prefix?: isots 
-1	1	1	1	
--1	1	1	1	
-1	1	1	1	
--1	1	-1	-1	
-Is Prefix?: isos 
-Yes isos is a prefix
-1	1	1	1	
-1	1	1	1	
-1	1	1	1	
--1	1	-1	-1	
-Is Prefix?: isosm 
-Yes isosm is a prefix
-1	1	1	1	
-1	1	1	1	
-1	1	1	1	
-1	1	-1	-1	
-Is Prefix?: isosn 
--1	-1	-1	-1	
--1	-1	-1	-1	
-1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: s 
-Yes s is a prefix
--1	-1	-1	-1	
-1	-1	-1	-1	
-1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: sm 
-Yes sm is a prefix
-1	-1	-1	-1	
-1	-1	-1	-1	
-1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: smc 
--1	1	-1	-1	
-1	-1	-1	-1	
-1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: sma 
-Yes sma is a prefix
--1	1	1	-1	
-1	-1	-1	-1	
-1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: smas 
-Yes smas is a prefix
--1	1	1	1	
-1	-1	-1	-1	
-1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: smase 
--1	1	1	-1	
-1	-1	-1	1	
-1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: smasi 
--1	1	1	-1	
-1	-1	1	-1	
-1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: smasp 
--1	1	1	-1	
-1	1	-1	-1	
-1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: smaso 
--1	1	1	-1	
-1	-1	1	-1	
-1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: smap 
--1	1	1	-1	
-1	1	-1	-1	
-1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: smao 
-1	1	1	-1	
-1	-1	-1	-1	
-1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: smac 
-Yes smac is a prefix
-1	1	1	-1	
-1	1	-1	-1	
-1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: smaco 
-1	1	1	-1	
-1	1	-1	-1	
-1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: smo 
-Yes smo is a prefix
-1	1	1	-1	
-1	1	1	-1	
-1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: smop 
-1	1	1	-1	
-1	1	-1	-1	
-1	-1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: smor 
-Yes smor is a prefix
-1	1	1	-1	
-1	1	1	-1	
-1	-1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: smorp 
-1	1	1	-1	
-1	1	-1	1	
-1	-1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: smori 
-1	1	1	-1	
-1	1	-1	-1	
-1	-1	1	1	
--1	-1	-1	-1	
-Is Prefix?: smore 
-1	1	1	-1	
-1	1	-1	-1	
-1	-1	1	-1	
--1	-1	-1	1	
-Is Prefix?: smord 
-1	1	1	-1	
-1	1	-1	-1	
-1	-1	1	-1	
--1	-1	1	-1	
-Is Prefix?: smorp 
-1	1	1	-1	
-1	1	-1	-1	
-1	-1	1	-1	
--1	1	-1	-1	
-Is Prefix?: smora 
-1	1	1	-1	
-1	1	-1	-1	
-1	1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: smort 
-1	1	1	-1	
-1	1	-1	-1	
-1	1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: smot 
-Yes smot is a prefix
-1	1	1	-1	
-1	1	1	-1	
-1	1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: smotp 
-1	1	1	-1	
-1	1	-1	-1	
-1	1	1	-1	
--1	-1	1	-1	
-Is Prefix?: smotp 
-1	1	1	-1	
-1	1	-1	-1	
-1	1	1	-1	
--1	1	-1	-1	
-Is Prefix?: smota 
-1	1	1	-1	
-1	1	-1	-1	
-1	1	1	-1	
-1	-1	-1	-1	
-Is Prefix?: smotn 
-1	1	1	-1	
-1	1	-1	-1	
-1	1	1	-1	
--1	1	-1	-1	
-Is Prefix?: sa 
-Yes sa is a prefix
-1	1	1	-1	
-1	1	-1	-1	
-1	1	1	-1	
--1	1	1	-1	
-Is Prefix?: sap 
-Yes sap is a prefix
-YES sap is a word
-sap
-1	1	1	-1	
-1	1	-1	-1	
-1	1	1	1	
--1	1	1	-1	
-Is Prefix?: sape 
-1	1	1	-1	
-1	1	-1	-1	
-1	1	1	-1	
--1	1	1	1	
-Is Prefix?: sapd 
-1	1	1	-1	
-1	1	-1	-1	
-1	1	1	-1	
-1	1	1	-1	
-Is Prefix?: san 
-Yes san is a prefix
--1	-1	-1	-1	
--1	-1	-1	-1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: t 
-Yes t is a prefix
--1	-1	-1	-1	
-1	-1	-1	-1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: tm 
-Yes tm is a prefix
-1	-1	-1	-1	
-1	-1	-1	-1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: tmc 
--1	1	-1	-1	
-1	-1	-1	-1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: tma 
--1	-1	-1	-1	
-1	1	-1	-1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: tmo 
--1	-1	-1	-1	
-1	-1	-1	-1	
-1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: tms 
--1	-1	-1	-1	
-1	1	-1	-1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: to 
-Yes to is a prefix
-1	-1	-1	-1	
-1	1	-1	-1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: toc 
-Yes toc is a prefix
-1	1	-1	-1	
-1	1	-1	-1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: toca 
-1	1	-1	-1	
-1	1	-1	-1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: toa 
-Yes toa is a prefix
-1	1	1	-1	
-1	1	-1	-1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: toas 
-Yes toas is a prefix
-1	1	1	1	
-1	1	-1	-1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: toase 
-1	1	1	-1	
-1	1	-1	1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: toasi 
-1	1	1	-1	
-1	1	1	-1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: toasp 
-1	1	1	-1	
-1	1	1	-1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: toap 
-1	1	1	-1	
-1	1	1	-1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: top 
-Yes top is a prefix
-YES top is a word
-top
-1	1	1	1	
-1	1	1	-1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: tope 
-Yes tope is a prefix
-YES tope is a word
-tope
-1	1	1	1	
-1	1	1	1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: topei 
-1	1	1	1	
-1	1	1	1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: topi 
-Yes topi is a prefix
-YES topi is a word
-topi
-1	1	1	1	
-1	1	1	1	
--1	1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: topie 
-1	1	1	1	
-1	1	1	1	
--1	1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: topir 
-1	1	1	1	
-1	1	1	1	
--1	1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: tope 
-Yes tope is a prefix
-YES tope is a word
-tope
-1	1	1	1	
-1	1	1	1	
--1	1	-1	1	
--1	-1	-1	1	
-Is Prefix?: toped 
-Yes toped is a prefix
-YES toped is a word
-toped
-1	1	1	1	
-1	1	1	1	
--1	1	1	1	
--1	-1	-1	1	
-Is Prefix?: topedr 
-1	1	1	1	
-1	1	1	1	
--1	1	-1	1	
--1	-1	1	1	
-Is Prefix?: topedp 
-1	1	1	1	
-1	1	1	1	
--1	1	-1	1	
--1	-1	1	1	
-Is Prefix?: topep 
-1	1	1	1	
-1	1	1	1	
--1	1	1	1	
--1	-1	-1	1	
-Is Prefix?: toper 
-Yes toper is a prefix
-YES toper is a word
-toper
-1	1	1	1	
-1	1	1	1	
--1	1	1	1	
--1	-1	1	1	
-Is Prefix?: toperp 
-1	1	1	1	
-1	1	1	1	
--1	1	1	1	
--1	1	-1	1	
-Is Prefix?: topera 
-1	1	1	1	
-1	1	1	1	
-1	1	1	1	
--1	-1	-1	1	
-Is Prefix?: tos 
-Yes tos is a prefix
-1	1	1	1	
-1	1	1	1	
-1	1	1	1	
--1	1	-1	1	
-Is Prefix?: tosa 
-1	1	1	1	
-1	1	1	1	
-1	1	1	1	
-1	-1	-1	1	
-Is Prefix?: tosn 
-1	1	1	1	
-1	1	1	1	
-1	1	1	1	
--1	-1	1	1	
-Is Prefix?: tp 
-1	1	1	1	
-1	1	1	1	
-1	1	1	1	
--1	1	-1	1	
-Is Prefix?: ta 
-Yes ta is a prefix
-1	1	1	1	
-1	1	1	1	
-1	1	1	1	
--1	1	1	1	
-Is Prefix?: tap 
-Yes tap is a prefix
-YES tap is a word
-tap
-1	1	1	1	
-1	1	1	1	
-1	1	1	1	
-1	1	1	1	
-Is Prefix?: tan 
-Yes tan is a prefix
-YES tan is a word
-tan
--1	-1	-1	-1	
--1	-1	-1	-1	
--1	-1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: r 
-Yes r is a prefix
--1	-1	-1	-1	
--1	1	-1	-1	
--1	-1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: ro 
-Yes ro is a prefix
-1	-1	-1	-1	
--1	1	-1	-1	
--1	-1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: roc 
-Yes roc is a prefix
-YES roc is a word
-roc
-1	1	-1	-1	
--1	1	-1	-1	
--1	-1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: roca 
-Yes roca is a prefix
-1	1	1	-1	
--1	1	-1	-1	
--1	-1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: rocas 
-1	1	-1	-1	
--1	1	1	-1	
--1	-1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: rocap 
-1	1	-1	-1	
-1	1	-1	-1	
--1	-1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: rocam 
-1	1	-1	-1	
-1	1	-1	-1	
--1	-1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: rocm 
-1	1	1	-1	
--1	1	-1	-1	
--1	-1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: ros 
-Yes ros is a prefix
-1	1	1	1	
--1	1	-1	-1	
--1	-1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: rose 
-Yes rose is a prefix
-YES rose is a word
-rose
-1	1	1	1	
--1	1	-1	1	
--1	-1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: rosei 
-1	1	1	1	
--1	1	1	-1	
--1	-1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: rosep 
-1	1	1	1	
--1	1	-1	1	
--1	-1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: rosi 
-Yes rosi is a prefix
-1	1	1	1	
--1	1	-1	1	
--1	-1	1	1	
--1	-1	-1	-1	
-Is Prefix?: rosie 
-Yes rosie is a prefix
-1	1	1	1	
--1	1	1	1	
--1	-1	1	1	
--1	-1	-1	-1	
-Is Prefix?: rosiep 
-1	1	1	1	
--1	1	-1	1	
--1	-1	1	1	
--1	-1	-1	1	
-Is Prefix?: rosied 
-1	1	1	1	
--1	1	-1	1	
--1	-1	1	1	
--1	-1	1	-1	
-Is Prefix?: rosiep 
-1	1	1	1	
--1	1	1	1	
--1	-1	1	1	
--1	-1	-1	-1	
-Is Prefix?: rosip 
-1	1	1	1	
--1	1	1	1	
--1	-1	1	1	
--1	-1	-1	-1	
-Is Prefix?: rosp 
-1	1	1	1	
--1	1	1	1	
--1	-1	1	1	
--1	-1	-1	-1	
-Is Prefix?: rop 
-Yes rop is a prefix
-1	1	1	1	
--1	1	1	1	
--1	1	1	1	
--1	-1	-1	-1	
-Is Prefix?: ropt 
-1	1	1	1	
--1	1	1	1	
--1	1	1	1	
--1	-1	-1	-1	
-Is Prefix?: rot 
-Yes rot is a prefix
-YES rot is a word
-rot
-1	1	1	1	
-1	1	1	1	
--1	1	1	1	
--1	-1	-1	-1	
-Is Prefix?: rotm 
-1	1	1	1	
--1	1	1	1	
--1	1	1	1	
--1	-1	1	-1	
-Is Prefix?: rotp 
-1	1	1	1	
--1	1	1	1	
--1	1	1	1	
--1	1	-1	-1	
-Is Prefix?: rota 
-Yes rota is a prefix
-YES rota is a word
-rota
-1	1	1	1	
--1	1	1	1	
-1	1	1	1	
--1	1	-1	-1	
-Is Prefix?: rotas 
-Yes rotas is a prefix
-YES rotas is a word
-rotas
-1	1	1	1	
-1	1	1	1	
-1	1	1	1	
--1	1	-1	-1	
-Is Prefix?: rotasm 
-1	1	1	1	
--1	1	1	1	
-1	1	1	1	
-1	1	-1	-1	
-Is Prefix?: rotasn 
-1	1	1	1	
--1	1	1	1	
-1	1	1	1	
--1	1	1	-1	
-Is Prefix?: rotap 
-1	1	1	1	
--1	1	1	1	
-1	1	1	1	
-1	1	-1	-1	
-Is Prefix?: rotan 
-1	1	1	1	
--1	1	1	1	
-1	1	1	1	
-1	1	-1	-1	
-Is Prefix?: rotn 
-1	1	1	1	
-1	1	1	1	
-1	1	1	1	
--1	1	-1	-1	
-Is Prefix?: rom 
-Yes rom is a prefix
-YES rom is a word
-rom
-1	1	1	1	
-1	1	1	1	
-1	1	1	1	
--1	1	-1	1	
-Is Prefix?: rd 
-1	1	1	1	
-1	1	1	1	
-1	1	1	1	
--1	1	1	-1	
-Is Prefix?: rp 
--1	-1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: e 
-Yes e is a prefix
--1	-1	-1	-1	
--1	-1	1	-1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: ep 
-Yes ep is a prefix
--1	1	-1	-1	
--1	-1	1	-1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: epa 
-Yes epa is a prefix
--1	1	1	-1	
--1	-1	1	-1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: epas 
--1	1	-1	-1	
--1	1	1	-1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: epao 
--1	1	-1	-1	
-1	-1	1	-1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: epam 
-1	1	-1	-1	
--1	-1	1	-1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: epac 
-Yes epac is a prefix
-1	1	-1	-1	
--1	1	1	-1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: epaco 
-1	1	-1	-1	
-1	-1	1	-1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: epacm 
-1	1	1	-1	
--1	-1	1	-1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: eps 
-Yes eps is a prefix
-1	1	1	1	
--1	-1	1	-1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: epse 
-1	1	1	-1	
--1	-1	1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: epsi 
-Yes epsi is a prefix
-1	1	1	1	
--1	-1	1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: epsie 
-1	1	1	-1	
--1	-1	1	1	
--1	-1	1	1	
--1	-1	-1	-1	
-Is Prefix?: epsir 
-1	1	1	-1	
--1	1	1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: epso 
-1	1	1	1	
--1	-1	1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: epe 
-Yes epe is a prefix
-1	1	1	1	
--1	-1	1	1	
--1	-1	1	1	
--1	-1	-1	-1	
-Is Prefix?: epr 
-1	1	1	1	
--1	-1	1	1	
--1	1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: ept 
-1	1	1	1	
--1	1	1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: epo 
-Yes epo is a prefix
-1	1	1	1	
--1	1	1	1	
--1	-1	1	1	
--1	-1	-1	-1	
-Is Prefix?: epor 
-1	1	1	1	
--1	1	1	1	
--1	1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: epot 
-1	1	1	1	
--1	1	1	1	
-1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: epos 
-Yes epos is a prefix
-YES epos is a word
-epos
-1	1	1	1	
-1	1	1	1	
-1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: eposm 
-1	1	1	1	
--1	1	1	1	
-1	1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: epost 
-1	1	1	1	
--1	1	1	1	
-1	-1	-1	1	
--1	1	-1	-1	
-Is Prefix?: eposa 
-1	1	1	1	
--1	1	1	1	
-1	-1	-1	1	
-1	-1	-1	-1	
-Is Prefix?: eposn 
-1	1	1	1	
-1	1	1	1	
-1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: epom 
-1	1	1	1	
--1	1	1	1	
-1	-1	-1	1	
--1	-1	-1	1	
-Is Prefix?: ed 
-Yes ed is a prefix
-1	1	1	1	
--1	1	1	1	
-1	-1	1	1	
--1	-1	-1	1	
-Is Prefix?: edr 
-1	1	1	1	
--1	1	1	1	
-1	-1	-1	1	
--1	-1	1	1	
-Is Prefix?: edp 
-1	1	1	1	
--1	1	1	1	
-1	-1	-1	1	
--1	-1	1	1	
-Is Prefix?: ep 
-Yes ep is a prefix
-1	1	1	1	
--1	1	1	1	
-1	1	-1	1	
--1	-1	1	1	
-Is Prefix?: ept 
-1	1	1	1	
--1	1	1	1	
-1	-1	1	1	
--1	-1	1	1	
-Is Prefix?: epr 
-1	1	1	1	
--1	1	1	1	
-1	-1	-1	1	
--1	1	1	1	
-Is Prefix?: epa 
-Yes epa is a prefix
-1	1	1	1	
--1	1	1	1	
-1	1	-1	1	
--1	1	1	1	
-Is Prefix?: epat 
-1	1	1	1	
--1	1	1	1	
-1	-1	1	1	
--1	1	1	1	
-Is Prefix?: epar 
-Yes epar is a prefix
-1	1	1	1	
--1	1	1	1	
-1	1	1	1	
--1	1	1	1	
-Is Prefix?: epart 
-1	1	1	1	
--1	1	1	1	
-1	-1	1	1	
-1	1	1	1	
-Is Prefix?: epan 
--1	-1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-1	-1	-1	-1	
-Is Prefix?: n 
-Yes n is a prefix
--1	-1	-1	-1	
--1	-1	-1	-1	
-1	-1	-1	-1	
-1	-1	-1	-1	
-Is Prefix?: ns 
--1	-1	-1	-1	
--1	-1	-1	-1	
--1	1	-1	-1	
-1	-1	-1	-1	
-Is Prefix?: nt 
-Yes nt is a prefix
--1	-1	-1	-1	
-1	-1	-1	-1	
--1	1	-1	-1	
-1	-1	-1	-1	
-Is Prefix?: ntm 
--1	-1	-1	-1	
--1	1	-1	-1	
--1	1	-1	-1	
-1	-1	-1	-1	
-Is Prefix?: nto 
--1	-1	-1	-1	
--1	-1	1	-1	
--1	1	-1	-1	
-1	-1	-1	-1	
-Is Prefix?: ntp 
--1	-1	-1	-1	
--1	-1	-1	-1	
--1	1	1	-1	
-1	-1	-1	-1	
-Is Prefix?: ntr 
--1	-1	-1	-1	
--1	-1	-1	-1	
--1	1	-1	-1	
-1	-1	1	-1	
-Is Prefix?: ntp 
--1	-1	-1	-1	
--1	-1	-1	-1	
--1	1	-1	-1	
-1	1	-1	-1	
-Is Prefix?: nta 
--1	-1	-1	-1	
--1	-1	-1	-1	
-1	1	-1	-1	
-1	-1	-1	-1	
-Is Prefix?: nts 
--1	-1	-1	-1	
--1	-1	-1	-1	
--1	1	-1	-1	
-1	1	-1	-1	
-Is Prefix?: na 
-Yes na is a prefix
--1	-1	-1	-1	
--1	-1	-1	-1	
-1	1	-1	-1	
-1	1	-1	-1	
-Is Prefix?: nas 
-Yes nas is a prefix
--1	-1	-1	-1	
-1	-1	-1	-1	
-1	1	-1	-1	
-1	1	-1	-1	
-Is Prefix?: nasm 
--1	-1	-1	-1	
--1	1	-1	-1	
-1	1	-1	-1	
-1	1	-1	-1	
-Is Prefix?: naso 
-Yes naso is a prefix
-1	-1	-1	-1	
--1	1	-1	-1	
-1	1	-1	-1	
-1	1	-1	-1	
-Is Prefix?: nasoc 
--1	1	-1	-1	
--1	1	-1	-1	
-1	1	-1	-1	
-1	1	-1	-1	
-Is Prefix?: nasoa 
--1	-1	1	-1	
--1	1	-1	-1	
-1	1	-1	-1	
-1	1	-1	-1	
-Is Prefix?: nasos 
--1	-1	-1	-1	
--1	1	1	-1	
-1	1	-1	-1	
-1	1	-1	-1	
-Is Prefix?: nasop 
-Yes nasop is a prefix
--1	1	-1	-1	
--1	1	1	-1	
-1	1	-1	-1	
-1	1	-1	-1	
-Is Prefix?: nasopa 
--1	-1	1	-1	
--1	1	1	-1	
-1	1	-1	-1	
-1	1	-1	-1	
-Is Prefix?: nasops 
--1	-1	-1	1	
--1	1	1	-1	
-1	1	-1	-1	
-1	1	-1	-1	
-Is Prefix?: nasope 
--1	-1	-1	-1	
--1	1	1	1	
-1	1	-1	-1	
-1	1	-1	-1	
-Is Prefix?: nasopi 
--1	-1	-1	-1	
--1	1	1	-1	
-1	1	-1	1	
-1	1	-1	-1	
-Is Prefix?: nasope 
--1	-1	-1	-1	
--1	1	1	-1	
-1	1	1	-1	
-1	1	-1	-1	
-Is Prefix?: nasopr 
--1	-1	-1	-1	
--1	1	1	-1	
-1	1	1	-1	
-1	1	-1	-1	
-Is Prefix?: nasor 
--1	-1	-1	-1	
-1	1	1	-1	
-1	1	-1	-1	
-1	1	-1	-1	
-Is Prefix?: nasom 
--1	-1	-1	-1	
--1	1	1	-1	
-1	1	1	-1	
-1	1	-1	-1	
-Is Prefix?: nar 
-Yes nar is a prefix
--1	-1	-1	-1	
--1	1	1	1	
-1	1	1	-1	
-1	1	-1	-1	
-Is Prefix?: nari 
-Yes nari is a prefix
--1	-1	1	-1	
--1	1	1	1	
-1	1	1	-1	
-1	1	-1	-1	
-Is Prefix?: naris 
-Yes naris is a prefix
-YES naris is a word
-naris
--1	-1	1	1	
--1	1	1	1	
-1	1	1	-1	
-1	1	-1	-1	
-Is Prefix?: narise 
--1	1	1	-1	
--1	1	1	1	
-1	1	1	-1	
-1	1	-1	-1	
-Is Prefix?: narisa 
--1	-1	1	1	
--1	1	1	1	
-1	1	1	-1	
-1	1	-1	-1	
-Is Prefix?: narie 
--1	-1	1	-1	
--1	1	1	1	
-1	1	1	1	
-1	1	-1	-1	
-Is Prefix?: narie 
--1	-1	1	-1	
--1	1	1	1	
-1	1	1	1	
-1	1	-1	-1	
-Is Prefix?: nare 
-Yes nare is a prefix
--1	-1	1	-1	
--1	1	1	1	
-1	1	1	1	
-1	1	-1	1	
-Is Prefix?: nared 
--1	-1	1	-1	
--1	1	1	1	
-1	1	1	1	
-1	1	1	-1	
-Is Prefix?: narep 
--1	-1	1	-1	
--1	1	1	1	
-1	1	1	1	
-1	1	-1	1	
-Is Prefix?: nard 
-Yes nard is a prefix
-YES nard is a word
-nard
--1	-1	1	-1	
--1	1	1	1	
-1	1	1	1	
-1	1	1	1	
-Is Prefix?: nardp 
--1	-1	1	-1	
--1	1	1	1	
-1	1	1	1	
-1	1	1	1	
-Is Prefix?: narp 
--1	-1	1	-1	
--1	1	1	1	
-1	1	1	1	
-1	1	1	1	
-Is Prefix?: nap 
-Yes nap is a prefix
-YES nap is a word
-nap
--1	-1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
--1	1	-1	-1	
-Is Prefix?: a 
-Yes a is a prefix
--1	-1	-1	-1	
--1	-1	-1	-1	
-1	-1	-1	-1	
--1	1	-1	-1	
-Is Prefix?: as 
-Yes as is a prefix
--1	-1	-1	-1	
-1	-1	-1	-1	
-1	-1	-1	-1	
--1	1	-1	-1	
-Is Prefix?: asm 
--1	-1	-1	-1	
--1	1	-1	-1	
-1	-1	-1	-1	
--1	1	-1	-1	
-Is Prefix?: aso 
-Yes aso is a prefix
-1	-1	-1	-1	
--1	1	-1	-1	
-1	-1	-1	-1	
--1	1	-1	-1	
-Is Prefix?: asoc 
-Yes asoc is a prefix
-1	1	-1	-1	
--1	1	-1	-1	
-1	-1	-1	-1	
--1	1	-1	-1	
-Is Prefix?: asoca 
-1	-1	-1	-1	
-1	1	-1	-1	
-1	-1	-1	-1	
--1	1	-1	-1	
-Is Prefix?: asocm 
-1	1	-1	-1	
--1	1	-1	-1	
-1	-1	-1	-1	
--1	1	-1	-1	
-Is Prefix?: asoa 
-1	-1	1	-1	
--1	1	-1	-1	
-1	-1	-1	-1	
--1	1	-1	-1	
-Is Prefix?: asos 
-1	-1	-1	-1	
--1	1	1	-1	
-1	-1	-1	-1	
--1	1	-1	-1	
-Is Prefix?: asop 
-1	-1	-1	-1	
--1	1	-1	-1	
-1	-1	1	-1	
--1	1	-1	-1	
-Is Prefix?: asor 
-1	-1	-1	-1	
--1	1	-1	-1	
-1	1	-1	-1	
--1	1	-1	-1	
-Is Prefix?: asot 
-1	-1	-1	-1	
-1	1	-1	-1	
-1	-1	-1	-1	
--1	1	-1	-1	
-Is Prefix?: asom 
-1	-1	-1	-1	
--1	1	-1	-1	
-1	1	-1	-1	
--1	1	-1	-1	
-Is Prefix?: ast 
-Yes ast is a prefix
-1	-1	-1	-1	
-1	1	-1	-1	
-1	1	-1	-1	
--1	1	-1	-1	
-Is Prefix?: astm 
-1	-1	-1	-1	
--1	1	1	-1	
-1	1	-1	-1	
--1	1	-1	-1	
-Is Prefix?: astp 
-1	-1	-1	-1	
--1	1	-1	-1	
-1	1	1	-1	
--1	1	-1	-1	
-Is Prefix?: astr 
-Yes astr is a prefix
-1	-1	-1	-1	
--1	1	1	-1	
-1	1	1	-1	
--1	1	-1	-1	
-Is Prefix?: astrp 
-1	-1	-1	-1	
--1	1	-1	1	
-1	1	1	-1	
--1	1	-1	-1	
-Is Prefix?: astri 
-Yes astri is a prefix
-1	-1	1	-1	
--1	1	-1	1	
-1	1	1	-1	
--1	1	-1	-1	
-Is Prefix?: astris 
-1	-1	-1	1	
--1	1	-1	1	
-1	1	1	-1	
--1	1	-1	-1	
-Is Prefix?: astrie 
-1	-1	-1	-1	
--1	1	-1	1	
-1	1	1	1	
--1	1	-1	-1	
-Is Prefix?: astrie 
-1	-1	-1	-1	
--1	1	1	1	
-1	1	1	-1	
--1	1	-1	-1	
-Is Prefix?: astrip 
-1	-1	-1	-1	
--1	1	-1	1	
-1	1	1	1	
--1	1	-1	-1	
-Is Prefix?: astre 
-1	-1	-1	-1	
--1	1	-1	1	
-1	1	1	-1	
--1	1	-1	1	
-Is Prefix?: astrd 
-1	-1	-1	-1	
--1	1	-1	1	
-1	1	1	-1	
--1	1	1	-1	
-Is Prefix?: astrp 
-1	-1	-1	-1	
--1	1	-1	1	
-1	1	1	-1	
--1	1	1	-1	
-Is Prefix?: astp 
-1	-1	-1	-1	
--1	1	-1	1	
-1	1	1	-1	
-1	1	-1	-1	
-Is Prefix?: astn 
-1	-1	-1	-1	
--1	1	-1	1	
-1	1	1	-1	
-1	1	-1	-1	
-Is Prefix?: asn 
-1	-1	-1	-1	
--1	1	-1	1	
-1	1	1	-1	
--1	1	1	-1	
-Is Prefix?: ap 
-Yes ap is a prefix
-1	-1	-1	-1	
--1	1	-1	1	
-1	1	1	1	
--1	1	1	-1	
-Is Prefix?: ape 
-Yes ape is a prefix
-YES ape is a word
+cams
+cap
+caps
+cape
+capes
+capo
+capos
+capos
+captor
+captan
+captans
+capris
+cape
+caper
+caped
+coapt
+coapts
+cos
+cosie
+cosie
+cosier
+cosied
+coma
+comas
+cop
+cops
+copse
+cope
+copes
+copies
+copier
+copied
+copra
+copras
+cope
+coper
+coped
+cos
+cost
+costa
+costar
+costard
+cot
+cots
+cotan
+cotans
+cor
+corps
+corpse
+core
+cored
+cord
+asp
+aspire
+aspired
+aspirant
+aspirants
+asper
+amort
+aorta
+aortas
+apse
 ape
-1	-1	-1	-1	
--1	1	1	1	
-1	1	1	1	
--1	1	1	-1	
-Is Prefix?: apep 
-1	-1	-1	-1	
--1	1	-1	1	
-1	1	1	1	
--1	1	1	1	
-Is Prefix?: aped 
-Yes aped is a prefix
-YES aped is a word
+apes
+aport
+apt
+ape
+aper
+aperies
 aped
-1	-1	-1	-1	
--1	1	-1	1	
-1	1	1	1	
-1	1	1	1	
-Is Prefix?: an 
-Yes an is a prefix
--1	-1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
--1	-1	1	-1	
-Is Prefix?: p 
-Yes p is a prefix
--1	-1	-1	-1	
--1	-1	-1	-1	
--1	1	-1	-1	
--1	-1	1	-1	
-Is Prefix?: pt 
-Yes pt is a prefix
--1	-1	-1	-1	
-1	-1	-1	-1	
--1	1	-1	-1	
--1	-1	1	-1	
-Is Prefix?: ptm 
--1	-1	-1	-1	
--1	1	-1	-1	
--1	1	-1	-1	
--1	-1	1	-1	
-Is Prefix?: pto 
-Yes pto is a prefix
-1	-1	-1	-1	
--1	1	-1	-1	
--1	1	-1	-1	
--1	-1	1	-1	
-Is Prefix?: ptoc 
--1	1	-1	-1	
--1	1	-1	-1	
--1	1	-1	-1	
--1	-1	1	-1	
-Is Prefix?: ptoa 
--1	-1	1	-1	
--1	1	-1	-1	
--1	1	-1	-1	
--1	-1	1	-1	
-Is Prefix?: ptos 
-Yes ptos is a prefix
--1	-1	1	1	
--1	1	-1	-1	
--1	1	-1	-1	
--1	-1	1	-1	
-Is Prefix?: ptose 
-Yes ptose is a prefix
--1	-1	1	1	
--1	1	-1	1	
--1	1	-1	-1	
--1	-1	1	-1	
-Is Prefix?: ptosei 
--1	-1	1	1	
--1	1	1	-1	
--1	1	-1	-1	
--1	-1	1	-1	
-Is Prefix?: ptosep 
--1	-1	1	1	
--1	1	-1	1	
--1	1	-1	-1	
--1	-1	1	-1	
-Is Prefix?: ptosi 
-Yes ptosi is a prefix
--1	-1	1	1	
--1	1	-1	1	
--1	1	-1	1	
--1	-1	1	-1	
-Is Prefix?: ptosie 
--1	-1	1	1	
--1	1	-1	1	
--1	1	1	-1	
--1	-1	1	-1	
-Is Prefix?: ptosir 
--1	-1	1	1	
--1	1	1	1	
--1	1	-1	-1	
--1	-1	1	-1	
-Is Prefix?: ptosip 
--1	-1	1	1	
--1	1	1	1	
--1	1	-1	-1	
--1	-1	1	-1	
-Is Prefix?: ptosp 
--1	1	1	1	
--1	1	-1	1	
--1	1	-1	-1	
--1	-1	1	-1	
-Is Prefix?: ptosa 
--1	-1	1	1	
--1	1	1	1	
--1	1	-1	-1	
--1	-1	1	-1	
-Is Prefix?: ptop 
--1	-1	1	1	
--1	1	-1	1	
--1	1	1	-1	
--1	-1	1	-1	
-Is Prefix?: ptor 
--1	-1	1	1	
--1	1	-1	1	
-1	1	-1	-1	
--1	-1	1	-1	
-Is Prefix?: ptos 
-Yes ptos is a prefix
--1	-1	1	1	
-1	1	-1	1	
-1	1	-1	-1	
--1	-1	1	-1	
-Is Prefix?: ptosm 
--1	-1	1	1	
--1	1	-1	1	
-1	1	-1	-1	
--1	1	1	-1	
-Is Prefix?: ptosa 
--1	-1	1	1	
--1	1	-1	1	
-1	1	-1	-1	
-1	-1	1	-1	
-Is Prefix?: ptosn 
--1	-1	1	1	
-1	1	-1	1	
-1	1	-1	-1	
--1	-1	1	-1	
-Is Prefix?: ptom 
-Yes ptom is a prefix
-1	-1	1	1	
-1	1	-1	1	
-1	1	-1	-1	
--1	-1	1	-1	
-Is Prefix?: ptomc 
--1	1	1	1	
-1	1	-1	1	
-1	1	-1	-1	
--1	-1	1	-1	
-Is Prefix?: ptoma 
-Yes ptoma is a prefix
--1	1	1	1	
-1	1	1	1	
-1	1	-1	-1	
--1	-1	1	-1	
-Is Prefix?: ptomap 
-1	1	1	1	
-1	1	-1	1	
-1	1	-1	-1	
--1	-1	1	-1	
-Is Prefix?: ptomac 
--1	1	1	1	
-1	1	1	1	
-1	1	-1	-1	
--1	-1	1	-1	
-Is Prefix?: ptp 
--1	1	1	1	
-1	1	-1	1	
-1	1	1	-1	
--1	-1	1	-1	
-Is Prefix?: ptr 
--1	1	1	1	
-1	1	-1	1	
-1	1	-1	-1	
--1	1	1	-1	
-Is Prefix?: pta 
-Yes pta is a prefix
--1	1	1	1	
-1	1	-1	1	
-1	1	1	-1	
--1	1	1	-1	
-Is Prefix?: ptar 
-Yes ptar is a prefix
--1	1	1	1	
-1	1	1	1	
-1	1	1	-1	
--1	1	1	-1	
-Is Prefix?: ptarp 
--1	1	1	1	
-1	1	-1	1	
-1	1	1	1	
--1	1	1	-1	
-Is Prefix?: ptare 
--1	1	1	1	
-1	1	-1	1	
-1	1	1	-1	
--1	1	1	1	
-Is Prefix?: ptard 
--1	1	1	1	
-1	1	-1	1	
-1	1	1	-1	
-1	1	1	-1	
-Is Prefix?: ptan 
--1	1	1	1	
-1	1	-1	1	
-1	1	1	-1	
-1	1	1	-1	
-Is Prefix?: ptn 
--1	1	1	1	
-1	1	-1	1	
-1	1	1	1	
--1	1	1	-1	
-Is Prefix?: pe 
-Yes pe is a prefix
--1	1	1	1	
-1	1	1	1	
-1	1	1	1	
--1	1	1	-1	
-Is Prefix?: pep 
-Yes pep is a prefix
-YES pep is a word
+sac
+samosa
+sap
+sapota
+sapotas
+sapor
+sept
+septs
+septa
+sei
+soap
+soapier
+soaper
+soaped
+soma
+sop
+sos
+sot
+sots
+sori
+sort
+sorts
+sore
+sora
+soras
+sord
+spa
+speir
+speired
+spot
+spots
+sport
+sports
+spore
+spored
+spirt
+spirts
+spire
+spired
+spirant
+spirants
+spier
+spied
+sprat
+sprats
+speir
+sped
+sip
+sipe
+sipe
+siped
+sir
+sire
+sired
+espied
+epos
+epos
+mac
+mas
+map
+maps
+moc
+moa
+moas
+mos
+mop
+mops
+mope
+mopes
+mopier
+mope
+moper
+moperies
+moped
+mos
+most
+mot
+mots
+mor
+mort
+morts
+more
+mora
+moras
+oca
+ocas
+ose
+osier
+oms
+ops
+ope
+opes
+opt
+opts
+ope
+opera
+operas
+operant
+operants
+oped
+osar
+ort
+orts
+ore
+ora
+pac
+pas
+pase
+pam
+pams
+psi
+pes
+peso
+pesos
+pose
+pom
+poms
+post
+pot
+pots
+port
+ports
+pore
+pored
+pis
+piso
+pisos
+pie
+pies
+pie
+pier
+pied
+pro
+proa
+proas
+pros
+prose
+prom
+proms
+pros
+prost
+prise
+pries
+pried
+prep
+prat
+prats
+peise
+per
+peri
+peris
+pert
 pep
--1	1	1	1	
-1	1	1	1	
-1	1	1	1	
--1	1	1	1	
-Is Prefix?: ped 
-Yes ped is a prefix
-YES ped is a word
 ped
--1	-1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	1	
-Is Prefix?: d 
-Yes d is a prefix
--1	-1	-1	-1	
--1	-1	-1	-1	
--1	-1	1	-1	
--1	-1	-1	1	
-Is Prefix?: dr 
-Yes dr is a prefix
--1	-1	-1	-1	
--1	1	-1	-1	
--1	-1	1	-1	
--1	-1	-1	1	
-Is Prefix?: dro 
-Yes dro is a prefix
-1	-1	-1	-1	
--1	1	-1	-1	
--1	-1	1	-1	
--1	-1	-1	1	
-Is Prefix?: droc 
--1	1	-1	-1	
--1	1	-1	-1	
--1	-1	1	-1	
--1	-1	-1	1	
-Is Prefix?: droa 
--1	-1	1	-1	
--1	1	-1	-1	
--1	-1	1	-1	
--1	-1	-1	1	
-Is Prefix?: dros 
-Yes dros is a prefix
--1	-1	1	1	
--1	1	-1	-1	
--1	-1	1	-1	
--1	-1	-1	1	
-Is Prefix?: drose 
-Yes drose is a prefix
--1	-1	1	1	
--1	1	-1	1	
--1	-1	1	-1	
--1	-1	-1	1	
-Is Prefix?: drosei 
--1	-1	1	1	
--1	1	1	-1	
--1	-1	1	-1	
--1	-1	-1	1	
-Is Prefix?: drosep 
--1	-1	1	1	
--1	1	-1	1	
--1	-1	1	-1	
--1	-1	-1	1	
-Is Prefix?: drosi 
--1	-1	1	1	
--1	1	1	-1	
--1	-1	1	-1	
--1	-1	-1	1	
-Is Prefix?: drosp 
--1	1	1	1	
--1	1	-1	-1	
--1	-1	1	-1	
--1	-1	-1	1	
-Is Prefix?: drosa 
--1	-1	1	1	
--1	1	1	-1	
--1	-1	1	-1	
--1	-1	-1	1	
-Is Prefix?: drop 
-Yes drop is a prefix
-YES drop is a word
+pedro
+pedros
+pedros
+ire
+ired
+soap
+soaps
+soapier
+soaper
+soaped
+sos
+soma
+somas
+sop
+sops
+sot
+sori
+sort
+sore
+sora
+sord
+stoa
+stoas
+stoma
+stomas
+stop
+stops
+stope
+stopes
+stope
+stoper
+stoped
+stories
+storied
+store
+stored
+stroma
+strop
+strops
+strip
+strips
+stripe
+stripes
+stripe
+striped
+strep
+streps
+strep
+strap
+star
+stare
+stared
+snare
+snared
+snap
+sat
+satori
+satoris
+saros
+sari
+saris
+sard
+santo
+santos
+sap
+tom
+toms
+top
+tops
+tope
+topes
+topi
+topis
+tope
+toper
+toped
+tor
+tori
+tories
+tore
+tora
+toras
+tsoris
+tsar
+trop
+trope
+tropes
+trope
+tries
+trip
+trips
+tripe
+tripes
+tripos
+tripos
+tripe
+tried
+trepan
+trepans
+trans
+transom
+trap
+tas
+tar
+taro
+taroc
+taros
+taros
+tarp
+tarps
+tare
+tared
+tarp
+tan
+tans
+tap
+tape
+taper
+taped
+roc
+roam
+roams
+rose
+rom
+roms
+rope
+ropes
+rope
+roped
+rot
+rots
+rota
+rotas
+rise
+rip
+rips
+ripe
+ripes
+ripost
+ripe
+riped
+rep
+reps
+repo
+repos
+repose
+repos
+repot
+repots
+rei
+reis
+rep
+repast
+red
+ras
+rat
+rato
+ratos
+ratos
+rats
+ran
+ransom
+rant
+rants
+rap
+rapt
+rape
+raped
+epos
+epos
+eros
+erose
+eros
+era
+eras
+naris
+nard
+nap
+nape
+naperies
+atma
+atmas
+atom
+atoms
+atop
+atopies
+atrip
+arose
+aroma
+aromas
+arise
+art
+arts
+are
+ant
+ants
+antre
+apt
+ape
+aper
+aperies
+aped
+pro
+proa
+proas
+pros
+prose
+prom
+proms
+prop
+props
+pros
+prost
+prise
+pries
+pried
+prep
+preps
+prat
+prats
+pep
+peps
+pepo
+pepos
+pepos
+peise
+per
+peri
+peris
+pert
+ped
+pedro
+pedros
+pedros
+pas
+past
+pastor
+pastored
+pastries
+pat
+pats
+par
+paris
+paries
+part
+parts
+pare
+pared
+pard
+pan
+pans
+pant
+panto
+pantos
+pantos
+pants
+pantries
 drop
--1	1	1	1	
--1	1	1	-1	
--1	-1	1	-1	
--1	-1	-1	1	
-Is Prefix?: dropa 
--1	-1	1	1	
--1	1	1	1	
--1	-1	1	-1	
--1	-1	-1	1	
-Is Prefix?: dropi 
--1	-1	1	1	
--1	1	1	-1	
--1	-1	1	1	
--1	-1	-1	1	
-Is Prefix?: drope 
--1	-1	1	1	
--1	1	1	-1	
--1	1	1	-1	
--1	-1	-1	1	
-Is Prefix?: dropt 
-Yes dropt is a prefix
-YES dropt is a word
+drops
 dropt
--1	-1	1	1	
-1	1	1	-1	
--1	1	1	-1	
--1	-1	-1	1	
-Is Prefix?: droptm 
--1	-1	1	1	
--1	1	1	-1	
--1	1	1	-1	
--1	-1	1	1	
-Is Prefix?: droptp 
--1	-1	1	1	
--1	1	1	-1	
--1	1	1	-1	
--1	1	-1	1	
-Is Prefix?: dropta 
--1	-1	1	1	
--1	1	1	-1	
--1	1	1	-1	
-1	-1	-1	1	
-Is Prefix?: droptn 
--1	-1	1	1	
--1	1	1	-1	
-1	1	1	-1	
--1	-1	-1	1	
-Is Prefix?: dropts 
--1	-1	1	1	
--1	1	1	-1	
-1	1	1	-1	
--1	-1	-1	1	
-Is Prefix?: dros 
-Yes dros is a prefix
--1	-1	1	1	
-1	1	1	-1	
-1	1	1	-1	
--1	-1	-1	1	
-Is Prefix?: drosm 
--1	-1	1	1	
--1	1	1	-1	
-1	1	1	-1	
--1	1	-1	1	
-Is Prefix?: drosa 
--1	-1	1	1	
--1	1	1	-1	
-1	1	1	-1	
-1	-1	-1	1	
-Is Prefix?: drosn 
--1	-1	1	1	
-1	1	1	-1	
-1	1	1	-1	
--1	-1	-1	1	
-Is Prefix?: drom 
-Yes drom is a prefix
-1	-1	1	1	
-1	1	1	-1	
-1	1	1	-1	
--1	-1	-1	1	
-Is Prefix?: dromc 
--1	1	1	1	
-1	1	1	-1	
-1	1	1	-1	
--1	-1	-1	1	
-Is Prefix?: droma 
--1	-1	1	1	
-1	1	1	1	
-1	1	1	-1	
--1	-1	-1	1	
-Is Prefix?: dri 
-Yes dri is a prefix
--1	-1	1	1	
-1	1	1	1	
-1	1	1	1	
--1	-1	-1	1	
-Is Prefix?: drie 
-Yes drie is a prefix
--1	-1	1	1	
-1	1	1	1	
-1	1	1	1	
--1	-1	1	1	
-Is Prefix?: driep 
--1	-1	1	1	
-1	1	1	1	
-1	1	1	1	
--1	-1	1	1	
-Is Prefix?: drp 
--1	-1	1	1	
-1	1	1	1	
-1	1	1	1	
--1	1	-1	1	
-Is Prefix?: dra 
-Yes dra is a prefix
--1	-1	1	1	
-1	1	1	1	
-1	1	1	1	
--1	1	1	1	
-Is Prefix?: drap 
-Yes drap is a prefix
--1	-1	1	1	
-1	1	1	1	
-1	1	1	1	
-1	1	1	1	
-Is Prefix?: dran 
-Yes dran is a prefix
-t r e d 
+dries
+drip
+drips
+dript
+drat
+drats
+drape
+depose
+depot
+depots
+deport
+deports
+derat
+derats
+depart
+departs
+MADE ITt r e d 
 a j c e 
 i a k m 
 f e l w 
-1	-1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: t 
-Yes t is a prefix
-1	1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: tr 
-Yes tr is a prefix
-1	1	1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: tre 
-Yes tre is a prefix
-1	1	1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: tred 
-Yes tred is a prefix
-1	1	1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: trede 
-Yes trede is a prefix
-1	1	1	1	
--1	-1	-1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: tredem 
-1	1	1	1	
--1	-1	-1	1	
--1	-1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: tredek 
-1	1	1	1	
--1	-1	1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: tredec 
-Yes tredec is a prefix
-1	1	1	1	
--1	-1	1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: tredecm 
-1	1	1	1	
--1	-1	1	1	
--1	-1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: tredeck 
-1	1	1	1	
--1	-1	1	1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: tredeca 
-1	1	1	1	
--1	1	1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: tredecj 
-1	1	1	1	
--1	1	1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: trej 
-1	1	1	1	
--1	1	1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: trj 
-1	1	1	1	
-1	-1	1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: tra 
-Yes tra is a prefix
-1	1	1	1	
-1	1	1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: traj 
-Yes traj is a prefix
-1	1	1	1	
-1	1	1	1	
--1	-1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: trajk 
-1	1	1	1	
-1	1	1	1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: traja 
-1	1	1	1	
-1	1	1	1	
-1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: traji 
-1	1	1	1	
-1	1	1	1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: traa 
-1	1	1	1	
-1	1	1	1	
-1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: trai 
-Yes trai is a prefix
-1	1	1	1	
-1	1	1	1	
-1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: traia 
-1	1	1	1	
-1	1	1	1	
-1	-1	-1	-1	
--1	1	-1	-1	
-Is Prefix?: traie 
-1	1	1	1	
-1	1	1	1	
-1	-1	-1	-1	
-1	-1	-1	-1	
-Is Prefix?: traif 
--1	1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: r 
-Yes r is a prefix
--1	1	1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: re 
-Yes re is a prefix
--1	1	1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: red 
-Yes red is a prefix
-YES red is a word
+tree
+treed
+tar
+tare
+tared
+taj
 red
--1	1	1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: rede 
-Yes rede is a prefix
-YES rede is a word
 rede
--1	1	1	1	
--1	-1	-1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: redem 
-Yes redem is a prefix
--1	1	1	1	
--1	-1	1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: redemc 
--1	1	1	1	
--1	-1	-1	1	
--1	-1	-1	1	
--1	-1	-1	1	
-Is Prefix?: redemw 
--1	1	1	1	
--1	-1	-1	1	
--1	-1	-1	1	
--1	-1	1	-1	
-Is Prefix?: redeml 
--1	1	1	1	
--1	-1	-1	1	
--1	-1	1	1	
--1	-1	-1	-1	
-Is Prefix?: redemk 
--1	1	1	1	
--1	-1	-1	1	
--1	-1	1	1	
--1	-1	-1	-1	
-Is Prefix?: redek 
--1	1	1	1	
--1	-1	1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: redec 
-Yes redec is a prefix
--1	1	1	1	
--1	-1	1	1	
--1	-1	1	1	
--1	-1	-1	-1	
-Is Prefix?: redeck 
--1	1	1	1	
--1	-1	1	1	
--1	1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: redeca 
--1	1	1	1	
--1	1	1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: redecj 
--1	1	1	1	
--1	1	1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: rej 
-Yes rej is a prefix
-1	1	1	1	
--1	1	1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: rejt 
--1	1	1	1	
--1	1	1	1	
--1	-1	1	1	
--1	-1	-1	-1	
-Is Prefix?: rejk 
--1	1	1	1	
--1	1	1	1	
--1	1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: reja 
-Yes reja is a prefix
--1	1	1	1	
-1	1	1	1	
--1	1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: rejaa 
--1	1	1	1	
--1	1	1	1	
--1	1	1	1	
--1	-1	-1	-1	
-Is Prefix?: rejak 
--1	1	1	1	
--1	1	1	1	
--1	1	-1	1	
--1	-1	1	-1	
-Is Prefix?: rejal 
--1	1	1	1	
--1	1	1	1	
--1	1	-1	1	
--1	1	-1	-1	
-Is Prefix?: rejae 
--1	1	1	1	
--1	1	1	1	
--1	1	-1	1	
-1	-1	-1	-1	
-Is Prefix?: rejaf 
--1	1	1	1	
--1	1	1	1	
-1	1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: rejai 
--1	1	1	1	
--1	1	1	1	
-1	1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: reji 
-Yes reji is a prefix
--1	1	1	1	
-1	1	1	1	
-1	1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: rejia 
--1	1	1	1	
--1	1	1	1	
-1	1	-1	1	
--1	1	-1	-1	
-Is Prefix?: rejie 
--1	1	1	1	
--1	1	1	1	
-1	1	-1	1	
-1	-1	-1	-1	
-Is Prefix?: rejif 
--1	1	1	1	
-1	1	1	1	
-1	1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: reja 
-Yes reja is a prefix
-1	1	1	1	
-1	1	1	1	
-1	1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: rejat 
-1	1	1	1	
-1	1	1	1	
-1	1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: rt 
--1	-1	1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: e 
-Yes e is a prefix
--1	-1	1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: ed 
-Yes ed is a prefix
--1	-1	1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: ede 
-Yes ede is a prefix
--1	-1	1	1	
--1	-1	-1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: edem 
-Yes edem is a prefix
--1	-1	1	1	
--1	-1	1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: edemc 
--1	-1	1	1	
--1	-1	-1	1	
--1	-1	-1	1	
--1	-1	-1	1	
-Is Prefix?: edemw 
--1	-1	1	1	
--1	-1	-1	1	
--1	-1	-1	1	
--1	-1	1	-1	
-Is Prefix?: edeml 
--1	-1	1	1	
--1	-1	-1	1	
--1	-1	1	1	
--1	-1	-1	-1	
-Is Prefix?: edemk 
--1	-1	1	1	
--1	-1	-1	1	
--1	-1	1	1	
--1	-1	-1	-1	
-Is Prefix?: edek 
--1	-1	1	1	
--1	-1	1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: edec 
--1	-1	1	1	
--1	-1	1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: edc 
--1	-1	1	1	
--1	-1	1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: ec 
-Yes ec is a prefix
--1	1	1	1	
--1	-1	1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: ecr 
-Yes ecr is a prefix
--1	1	1	1	
--1	1	1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: ecrj 
--1	1	1	1	
-1	-1	1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: ecra 
-Yes ecra is a prefix
-1	1	1	1	
-1	-1	1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: ecrat 
--1	1	1	1	
-1	1	1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: ecraj 
--1	1	1	1	
-1	-1	1	1	
--1	1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: ecraa 
--1	1	1	1	
-1	-1	1	1	
-1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: ecrai 
-1	1	1	1	
-1	-1	1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: ecrt 
--1	1	1	1	
-1	-1	1	1	
--1	-1	1	1	
--1	-1	-1	-1	
-Is Prefix?: eck 
--1	1	1	1	
-1	-1	1	1	
--1	1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: eca 
-Yes eca is a prefix
--1	1	1	1	
-1	1	1	1	
--1	1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: ecaj 
--1	1	1	1	
-1	-1	1	1	
--1	1	1	1	
--1	-1	-1	-1	
-Is Prefix?: ecak 
--1	1	1	1	
-1	-1	1	1	
--1	1	-1	1	
--1	-1	1	-1	
-Is Prefix?: ecal 
--1	1	1	1	
-1	-1	1	1	
--1	1	-1	1	
--1	1	-1	-1	
-Is Prefix?: ecae 
--1	1	1	1	
-1	-1	1	1	
--1	1	-1	1	
-1	-1	-1	-1	
-Is Prefix?: ecaf 
--1	1	1	1	
-1	-1	1	1	
-1	1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: ecai 
--1	1	1	1	
-1	1	1	1	
--1	1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: ecj 
--1	1	1	1	
-1	1	1	1	
--1	1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: ej 
-Yes ej is a prefix
-1	1	1	1	
-1	1	1	1	
--1	1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: ejt 
--1	1	1	1	
-1	1	1	1	
--1	1	1	1	
--1	-1	-1	-1	
-Is Prefix?: ejk 
--1	1	1	1	
-1	1	1	1	
-1	1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: eji 
--1	-1	-1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: d 
-Yes d is a prefix
--1	-1	-1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: de 
-Yes de is a prefix
--1	-1	1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: dee 
-Yes dee is a prefix
-YES dee is a word
+rec
+reck
+recked
+ree
+reed
+reek
+rat
+raj
+raja
+raia
+era
+derat
+decaf
+decal
+deck
+deckel
+deckle
 dee
--1	-1	1	1	
--1	-1	1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: deec 
--1	-1	1	1	
--1	1	-1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: deej 
-Yes deej is a prefix
-1	-1	1	1	
--1	1	-1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: deejt 
--1	1	1	1	
--1	1	-1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: deejr 
--1	-1	1	1	
--1	1	1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: deejc 
--1	-1	1	1	
--1	1	-1	1	
--1	-1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: deejk 
--1	-1	1	1	
--1	1	-1	1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: deeja 
-Yes deeja is a prefix
--1	-1	1	1	
-1	1	-1	1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: deejaa 
--1	-1	1	1	
--1	1	1	1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: deejac 
--1	-1	1	1	
--1	1	-1	1	
--1	1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: deejak 
--1	-1	1	1	
--1	1	-1	1	
--1	1	-1	-1	
--1	-1	1	-1	
-Is Prefix?: deejal 
--1	-1	1	1	
--1	1	-1	1	
--1	1	-1	-1	
--1	1	-1	-1	
-Is Prefix?: deejae 
--1	-1	1	1	
--1	1	-1	1	
--1	1	-1	-1	
-1	-1	-1	-1	
-Is Prefix?: deejaf 
--1	-1	1	1	
--1	1	-1	1	
-1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: deejai 
--1	-1	1	1	
--1	1	-1	1	
-1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: deeji 
--1	-1	1	1	
-1	1	-1	1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: deeja 
-Yes deeja is a prefix
-1	-1	1	1	
-1	1	-1	1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: deejat 
--1	1	1	1	
-1	1	-1	1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: deejar 
--1	-1	1	1	
-1	1	-1	1	
-1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: deejai 
--1	1	1	1	
-1	1	-1	1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: deer 
-Yes deer is a prefix
-YES deer is a word
+deem
+dee
 deer
--1	1	1	1	
-1	1	1	1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: deerc 
-1	1	1	1	
-1	1	-1	1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: deert 
--1	1	1	1	
-1	1	-1	1	
--1	1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: dem 
-Yes dem is a prefix
--1	1	1	1	
-1	1	1	1	
--1	1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: demc 
--1	1	1	1	
-1	1	-1	1	
--1	1	-1	1	
--1	-1	-1	1	
-Is Prefix?: demw 
--1	1	1	1	
-1	1	-1	1	
--1	1	-1	1	
--1	-1	1	-1	
-Is Prefix?: deml 
--1	1	1	1	
-1	1	-1	1	
--1	1	1	1	
--1	-1	-1	-1	
-Is Prefix?: demk 
--1	1	1	1	
-1	1	-1	1	
--1	1	1	1	
--1	-1	-1	-1	
-Is Prefix?: dek 
-Yes dek is a prefix
--1	1	1	1	
-1	1	1	1	
--1	1	1	1	
--1	-1	-1	-1	
-Is Prefix?: dekc 
--1	1	1	1	
-1	1	-1	1	
--1	1	1	1	
--1	-1	-1	1	
-Is Prefix?: dekw 
--1	1	1	1	
-1	1	-1	1	
--1	1	1	1	
--1	-1	1	-1	
-Is Prefix?: dekl 
--1	1	1	1	
-1	1	-1	1	
--1	1	1	1	
--1	1	-1	-1	
-Is Prefix?: deke 
-Yes deke is a prefix
-YES deke is a word
+decaf
+decal
+deck
+deckel
+deckle
 deke
--1	1	1	1	
-1	1	-1	1	
-1	1	1	1	
--1	1	-1	-1	
-Is Prefix?: dekei 
--1	1	1	1	
-1	1	-1	1	
--1	1	1	1	
--1	1	1	-1	
-Is Prefix?: dekel 
--1	1	1	1	
-1	1	-1	1	
--1	1	1	1	
-1	1	-1	-1	
-Is Prefix?: dekef 
--1	1	1	1	
-1	1	1	1	
--1	1	1	1	
--1	1	-1	-1	
-Is Prefix?: dec 
-Yes dec is a prefix
--1	-1	-1	-1	
-1	-1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: a 
-Yes a is a prefix
-1	-1	-1	-1	
-1	-1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: at 
-Yes at is a prefix
-1	1	-1	-1	
-1	-1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: atr 
-Yes atr is a prefix
-1	1	1	-1	
-1	-1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: atre 
-Yes atre is a prefix
-1	1	1	1	
-1	-1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: atred 
-1	1	1	-1	
-1	-1	-1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: atree 
-1	1	1	-1	
-1	-1	1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: atrec 
-1	1	1	-1	
-1	1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: atrej 
-1	1	1	-1	
-1	-1	1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: atrc 
-1	1	1	-1	
-1	1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: atrj 
-1	1	1	-1	
-1	1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: atj 
-1	1	1	-1	
-1	1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: aj 
-Yes aj is a prefix
-1	1	1	-1	
-1	1	1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: ajc 
-1	1	1	-1	
-1	1	-1	-1	
--1	-1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: ajk 
-1	1	1	-1	
-1	1	-1	-1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: aja 
-Yes aja is a prefix
-1	1	1	-1	
-1	1	1	-1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: ajac 
-1	1	1	-1	
-1	1	-1	-1	
--1	1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: ajak 
-1	1	1	-1	
-1	1	-1	-1	
--1	1	-1	-1	
--1	-1	1	-1	
-Is Prefix?: ajal 
-1	1	1	-1	
-1	1	-1	-1	
--1	1	-1	-1	
--1	1	-1	-1	
-Is Prefix?: ajae 
-1	1	1	-1	
-1	1	-1	-1	
--1	1	-1	-1	
-1	-1	-1	-1	
-Is Prefix?: ajaf 
-1	1	1	-1	
-1	1	-1	-1	
-1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: ajai 
-1	1	1	-1	
-1	1	-1	-1	
-1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: aji 
-Yes aji is a prefix
-1	1	1	-1	
-1	1	-1	-1	
-1	1	-1	-1	
--1	1	-1	-1	
-Is Prefix?: ajie 
-1	1	1	-1	
-1	1	-1	-1	
-1	1	-1	-1	
-1	-1	-1	-1	
-Is Prefix?: ajif 
--1	-1	-1	-1	
--1	1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: j 
-Yes j is a prefix
-1	-1	-1	-1	
--1	1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: jt 
--1	1	-1	-1	
--1	1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: jr 
--1	-1	1	-1	
--1	1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: je 
-Yes je is a prefix
--1	-1	1	1	
--1	1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: jed 
--1	-1	1	-1	
--1	1	-1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: jee 
-Yes jee is a prefix
-YES jee is a word
-jee
--1	-1	1	1	
--1	1	-1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: jeed 
-Yes jeed is a prefix
-YES jeed is a word
-jeed
--1	-1	1	1	
--1	1	1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: jeedc 
--1	-1	1	1	
--1	1	-1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: jeem 
--1	-1	1	1	
--1	1	-1	1	
--1	-1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: jeek 
--1	-1	1	1	
--1	1	1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: jeec 
--1	-1	1	1	
--1	1	1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: jec 
--1	1	1	1	
--1	1	-1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: jer 
-Yes jer is a prefix
--1	1	1	1	
--1	1	1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: jerc 
--1	1	1	1	
-1	1	-1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: jera 
-1	1	1	1	
--1	1	-1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: jert 
--1	1	1	1	
--1	1	1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: jc 
--1	1	1	1	
--1	1	-1	1	
--1	-1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: jk 
--1	1	1	1	
--1	1	-1	1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: ja 
-Yes ja is a prefix
--1	1	1	1	
-1	1	-1	1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: jaa 
--1	1	1	1	
--1	1	1	1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: jac 
-Yes jac is a prefix
--1	1	1	1	
--1	1	1	1	
--1	1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: jacm 
--1	1	1	1	
--1	1	1	1	
--1	1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: jack 
-Yes jack is a prefix
-YES jack is a word
-jack
--1	1	1	1	
--1	1	1	1	
--1	1	1	1	
--1	-1	-1	-1	
-Is Prefix?: jackm 
--1	1	1	1	
--1	1	1	1	
--1	1	1	-1	
--1	-1	-1	1	
-Is Prefix?: jackw 
--1	1	1	1	
--1	1	1	1	
--1	1	1	-1	
--1	-1	1	-1	
-Is Prefix?: jackl 
-Yes jackl is a prefix
--1	1	1	1	
--1	1	1	1	
--1	1	1	1	
--1	-1	1	-1	
-Is Prefix?: jacklm 
--1	1	1	1	
--1	1	1	1	
--1	1	1	-1	
--1	-1	1	1	
-Is Prefix?: jacklw 
--1	1	1	1	
--1	1	1	1	
--1	1	1	-1	
--1	1	1	-1	
-Is Prefix?: jackle 
-Yes jackle is a prefix
--1	1	1	1	
--1	1	1	1	
-1	1	1	-1	
--1	1	1	-1	
-Is Prefix?: jacklei 
--1	1	1	1	
--1	1	1	1	
--1	1	1	-1	
-1	1	1	-1	
-Is Prefix?: jacklef 
--1	1	1	1	
--1	1	1	1	
--1	1	1	-1	
-1	1	1	-1	
-Is Prefix?: jaf 
--1	1	1	1	
--1	1	1	1	
-1	1	1	-1	
--1	1	1	-1	
-Is Prefix?: jai 
-Yes jai is a prefix
--1	1	1	1	
-1	1	1	1	
-1	1	1	-1	
--1	1	1	-1	
-Is Prefix?: jaia 
--1	1	1	1	
--1	1	1	1	
-1	1	1	-1	
-1	1	1	-1	
-Is Prefix?: jaif 
--1	1	1	1	
-1	1	1	1	
-1	1	1	-1	
--1	1	1	-1	
-Is Prefix?: ja 
-Yes ja is a prefix
-1	1	1	1	
-1	1	1	1	
-1	1	1	-1	
--1	1	1	-1	
-Is Prefix?: jat 
-Yes jat is a prefix
--1	-1	-1	-1	
--1	-1	1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: c 
-Yes c is a prefix
--1	1	-1	-1	
--1	-1	1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: cr 
-Yes cr is a prefix
--1	1	1	-1	
--1	-1	1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: cre 
-Yes cre is a prefix
--1	1	1	1	
--1	-1	1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: cred 
-Yes cred is a prefix
--1	1	1	1	
--1	-1	1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: crede 
-Yes crede is a prefix
--1	1	1	1	
--1	-1	1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: credem 
--1	1	1	1	
--1	-1	1	1	
--1	-1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: credek 
--1	1	1	1	
--1	1	1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: crej 
--1	1	1	1	
--1	1	1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: crj 
--1	1	1	1	
-1	-1	1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: cra 
-Yes cra is a prefix
-1	1	1	1	
-1	-1	1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: crat 
-Yes crat is a prefix
-1	1	1	1	
-1	1	1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: cratj 
-1	1	1	1	
-1	1	1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: craj 
-1	1	1	1	
-1	-1	1	1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: craa 
-Yes craa is a prefix
-1	1	1	1	
-1	1	1	1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: craaj 
-1	1	1	1	
-1	-1	1	1	
--1	1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: craak 
-1	1	1	1	
-1	-1	1	1	
--1	1	-1	-1	
--1	-1	1	-1	
-Is Prefix?: craal 
-Yes craal is a prefix
-YES craal is a word
-craal
-1	1	1	1	
-1	-1	1	1	
--1	1	1	-1	
--1	-1	1	-1	
-Is Prefix?: craalk 
-1	1	1	1	
-1	-1	1	1	
--1	1	-1	1	
--1	-1	1	-1	
-Is Prefix?: craalm 
-1	1	1	1	
-1	-1	1	1	
--1	1	-1	-1	
--1	-1	1	1	
-Is Prefix?: craalw 
-1	1	1	1	
-1	-1	1	1	
--1	1	-1	-1	
--1	1	1	-1	
-Is Prefix?: craale 
-Yes craale is a prefix
-1	1	1	1	
-1	-1	1	1	
-1	1	-1	-1	
--1	1	1	-1	
-Is Prefix?: craalei 
-1	1	1	1	
-1	-1	1	1	
--1	1	1	-1	
--1	1	1	-1	
-Is Prefix?: craalek 
-1	1	1	1	
-1	-1	1	1	
--1	1	-1	-1	
-1	1	1	-1	
-Is Prefix?: craalef 
-1	1	1	1	
-1	-1	1	1	
--1	1	-1	-1	
-1	1	1	-1	
-Is Prefix?: craaf 
-1	1	1	1	
-1	-1	1	1	
-1	1	-1	-1	
--1	1	1	-1	
-Is Prefix?: craai 
-1	1	1	1	
-1	-1	1	1	
-1	1	-1	-1	
--1	1	1	-1	
-Is Prefix?: crai 
-1	1	1	1	
-1	-1	1	1	
--1	1	-1	1	
--1	1	1	-1	
-Is Prefix?: cm 
-1	1	1	1	
-1	-1	1	1	
--1	1	1	-1	
--1	1	1	-1	
-Is Prefix?: ck 
-1	1	1	1	
-1	1	1	1	
--1	1	-1	-1	
--1	1	1	-1	
-Is Prefix?: cj 
--1	-1	-1	-1	
--1	-1	-1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: e 
-Yes e is a prefix
--1	-1	1	-1	
--1	-1	-1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: ee 
-Yes ee is a prefix
--1	-1	1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: eed 
--1	-1	1	-1	
--1	-1	1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: eec 
--1	-1	1	-1	
--1	1	-1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: eej 
--1	1	1	-1	
--1	-1	-1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: eer 
-Yes eer is a prefix
--1	1	1	-1	
--1	-1	1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: eerc 
--1	1	1	-1	
--1	1	-1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: eerj 
--1	1	1	-1	
-1	-1	-1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: eera 
-1	1	1	-1	
--1	-1	-1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: eert 
--1	1	1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: ed 
-Yes ed is a prefix
--1	1	1	1	
--1	-1	1	1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: edc 
--1	1	1	1	
--1	-1	-1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: em 
-Yes em is a prefix
--1	1	1	1	
--1	-1	1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: emc 
-Yes emc is a prefix
--1	1	1	1	
--1	-1	1	1	
--1	-1	1	1	
--1	-1	-1	-1	
-Is Prefix?: emck 
--1	1	1	1	
--1	-1	1	1	
--1	1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: emca 
--1	1	1	1	
--1	1	1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: emcj 
--1	1	1	1	
--1	-1	1	1	
--1	-1	-1	1	
--1	-1	-1	1	
-Is Prefix?: emw 
--1	1	1	1	
--1	-1	1	1	
--1	-1	-1	1	
--1	-1	1	-1	
-Is Prefix?: eml 
--1	1	1	1	
--1	-1	1	1	
--1	-1	1	1	
--1	-1	-1	-1	
-Is Prefix?: emk 
--1	1	1	1	
--1	-1	1	1	
--1	-1	1	1	
--1	-1	-1	-1	
-Is Prefix?: ek 
-Yes ek is a prefix
--1	1	1	1	
--1	1	1	1	
--1	-1	1	1	
--1	-1	-1	-1	
-Is Prefix?: ekj 
--1	1	1	1	
--1	-1	1	1	
--1	-1	1	1	
--1	-1	-1	1	
-Is Prefix?: ekw 
--1	1	1	1	
--1	-1	1	1	
--1	-1	1	1	
--1	-1	1	-1	
-Is Prefix?: ekl 
--1	1	1	1	
--1	-1	1	1	
--1	-1	1	1	
--1	1	-1	-1	
-Is Prefix?: eke 
-Yes eke is a prefix
-YES eke is a word
-eke
--1	1	1	1	
--1	-1	1	1	
-1	-1	1	1	
--1	1	-1	-1	
-Is Prefix?: ekei 
--1	1	1	1	
--1	-1	1	1	
--1	1	1	1	
--1	1	-1	-1	
-Is Prefix?: ekea 
--1	1	1	1	
--1	-1	1	1	
--1	-1	1	1	
--1	1	1	-1	
-Is Prefix?: ekel 
--1	1	1	1	
--1	-1	1	1	
--1	-1	1	1	
-1	1	-1	-1	
-Is Prefix?: ekef 
--1	1	1	1	
--1	-1	1	1	
--1	1	1	1	
--1	1	-1	-1	
-Is Prefix?: eka 
--1	-1	-1	-1	
--1	-1	-1	-1	
-1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: i 
-Yes i is a prefix
--1	-1	-1	-1	
-1	-1	-1	-1	
-1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: ia 
-Yes ia is a prefix
-1	-1	-1	-1	
-1	-1	-1	-1	
-1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: iat 
-Yes iat is a prefix
-1	1	-1	-1	
-1	-1	-1	-1	
-1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: iatr 
-Yes iatr is a prefix
-1	1	1	-1	
-1	-1	-1	-1	
-1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: iatre 
-1	1	-1	-1	
-1	-1	1	-1	
-1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: iatrc 
-1	1	-1	-1	
-1	1	-1	-1	
-1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: iatrj 
-1	1	-1	-1	
-1	1	-1	-1	
-1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: iatj 
-1	1	-1	-1	
-1	1	-1	-1	
-1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: iaj 
-1	1	-1	-1	
-1	-1	-1	-1	
-1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: iaa 
-1	1	-1	-1	
-1	1	-1	-1	
-1	-1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: ij 
-1	1	-1	-1	
-1	-1	-1	-1	
-1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: ia 
-Yes ia is a prefix
-1	1	-1	-1	
-1	1	-1	-1	
-1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: iaj 
-1	1	-1	-1	
-1	-1	1	-1	
-1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: iac 
-1	1	-1	-1	
-1	-1	-1	-1	
-1	1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: iak 
-1	1	-1	-1	
-1	-1	-1	-1	
-1	1	-1	-1	
--1	-1	1	-1	
-Is Prefix?: ial 
-1	1	-1	-1	
-1	-1	-1	-1	
-1	1	-1	-1	
--1	1	-1	-1	
-Is Prefix?: iae 
-1	1	-1	-1	
-1	-1	-1	-1	
-1	1	-1	-1	
-1	-1	-1	-1	
-Is Prefix?: iaf 
-1	1	-1	-1	
-1	-1	-1	-1	
-1	1	-1	-1	
--1	1	-1	-1	
-Is Prefix?: ie 
-1	1	-1	-1	
-1	-1	-1	-1	
-1	1	-1	-1	
-1	-1	-1	-1	
-Is Prefix?: if 
-Yes if is a prefix
-1	1	-1	-1	
-1	-1	-1	-1	
-1	1	-1	-1	
-1	1	-1	-1	
-Is Prefix?: ife 
--1	-1	-1	-1	
--1	-1	-1	-1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: a 
-Yes a is a prefix
--1	-1	-1	-1	
-1	-1	-1	-1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: aa 
-Yes aa is a prefix
-1	-1	-1	-1	
-1	-1	-1	-1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: aat 
--1	1	-1	-1	
-1	-1	-1	-1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: aar 
-Yes aar is a prefix
--1	1	1	-1	
-1	-1	-1	-1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: aare 
--1	1	-1	-1	
-1	-1	1	-1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: aarc 
--1	1	-1	-1	
-1	1	-1	-1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: aarj 
-1	1	-1	-1	
-1	-1	-1	-1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: aart 
--1	1	-1	-1	
-1	1	-1	-1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: aaj 
--1	1	-1	-1	
-1	-1	-1	-1	
-1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: aai 
--1	1	-1	-1	
-1	1	-1	-1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: aj 
-Yes aj is a prefix
-1	1	-1	-1	
-1	1	-1	-1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: ajt 
--1	1	1	-1	
-1	1	-1	-1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: aje 
-Yes aje is a prefix
--1	1	1	1	
-1	1	-1	-1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: ajed 
--1	1	1	-1	
-1	1	-1	1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: ajee 
-Yes ajee is a prefix
-YES ajee is a word
+art
+are
+areca
+arc
+arced
+arced
+arcked
 ajee
--1	1	1	1	
-1	1	-1	1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: ajeed 
--1	1	1	-1	
-1	1	-1	1	
--1	1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: ajeem 
--1	1	1	-1	
-1	1	-1	1	
--1	1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: ajeek 
--1	1	1	-1	
-1	1	1	1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: ajeec 
--1	1	1	-1	
-1	1	1	1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: ajec 
--1	1	1	-1	
-1	1	1	1	
--1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: ajc 
--1	1	1	-1	
-1	1	-1	1	
--1	1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: ajk 
--1	1	1	-1	
-1	1	-1	1	
-1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: aji 
-Yes aji is a prefix
--1	1	1	-1	
-1	1	-1	1	
-1	1	-1	-1	
--1	1	-1	-1	
-Is Prefix?: ajie 
--1	1	1	-1	
-1	1	-1	1	
-1	1	-1	-1	
-1	-1	-1	-1	
-Is Prefix?: ajif 
--1	1	1	-1	
-1	1	1	1	
-1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: ac 
-Yes ac is a prefix
--1	1	1	1	
-1	1	1	1	
-1	1	-1	-1	
--1	-1	-1	-1	
-Is Prefix?: acd 
--1	1	1	-1	
-1	1	1	1	
-1	1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: acm 
-Yes acm is a prefix
--1	1	1	-1	
-1	1	1	1	
-1	1	-1	1	
--1	-1	-1	1	
-Is Prefix?: acmw 
--1	1	1	-1	
-1	1	1	1	
-1	1	-1	1	
--1	-1	1	-1	
-Is Prefix?: acml 
--1	1	1	-1	
-1	1	1	1	
-1	1	1	1	
--1	-1	-1	-1	
-Is Prefix?: acmk 
--1	1	1	-1	
-1	1	1	1	
-1	1	1	1	
--1	-1	-1	-1	
-Is Prefix?: ack 
-Yes ack is a prefix
--1	1	1	-1	
-1	1	1	1	
-1	1	1	1	
--1	-1	-1	1	
-Is Prefix?: ackw 
--1	1	1	-1	
-1	1	1	1	
-1	1	1	1	
--1	-1	1	-1	
-Is Prefix?: ackl 
--1	1	1	-1	
-1	1	1	1	
-1	1	1	1	
--1	1	-1	-1	
-Is Prefix?: acke 
-Yes acke is a prefix
--1	1	1	-1	
-1	1	1	1	
-1	1	1	1	
--1	1	1	-1	
-Is Prefix?: ackel 
--1	1	1	-1	
-1	1	1	1	
-1	1	1	1	
-1	1	-1	-1	
-Is Prefix?: ackef 
--1	1	1	-1	
-1	1	1	1	
-1	1	1	1	
--1	1	1	-1	
-Is Prefix?: al 
-Yes al is a prefix
--1	1	1	-1	
-1	1	1	1	
-1	1	1	1	
--1	1	1	1	
-Is Prefix?: alw 
-Yes alw is a prefix
--1	1	1	-1	
-1	1	1	1	
-1	1	1	1	
-1	1	1	1	
-Is Prefix?: af 
-Yes af is a prefix
--1	-1	-1	-1	
--1	-1	-1	-1	
--1	-1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: k 
-Yes k is a prefix
--1	-1	-1	-1	
--1	1	-1	-1	
--1	-1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: kj 
--1	-1	-1	-1	
--1	-1	1	-1	
--1	-1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: kc 
--1	-1	-1	-1	
--1	-1	-1	1	
--1	-1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: ke 
-Yes ke is a prefix
--1	-1	1	-1	
--1	-1	-1	1	
--1	-1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: kee 
-Yes kee is a prefix
--1	-1	1	1	
--1	-1	-1	1	
--1	-1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: keed 
--1	-1	1	-1	
--1	-1	1	1	
--1	-1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: keec 
--1	-1	1	-1	
--1	1	-1	1	
--1	-1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: keej 
--1	1	1	-1	
--1	-1	-1	1	
--1	-1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: keer 
--1	-1	1	1	
--1	-1	-1	1	
--1	-1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: ked 
-Yes ked is a prefix
--1	-1	1	1	
--1	-1	1	1	
--1	-1	1	-1	
--1	-1	-1	-1	
-Is Prefix?: kedc 
--1	-1	1	1	
--1	-1	-1	1	
--1	-1	1	1	
--1	-1	-1	-1	
-Is Prefix?: kem 
-Yes kem is a prefix
--1	-1	1	1	
--1	-1	1	1	
--1	-1	1	1	
--1	-1	-1	-1	
-Is Prefix?: kemc 
--1	-1	1	1	
--1	-1	-1	1	
--1	-1	1	1	
--1	-1	-1	1	
-Is Prefix?: kemw 
--1	-1	1	1	
--1	-1	-1	1	
--1	-1	1	1	
--1	-1	1	-1	
-Is Prefix?: keml 
--1	-1	1	1	
--1	-1	1	1	
--1	-1	1	1	
--1	-1	-1	-1	
-Is Prefix?: kec 
-Yes kec is a prefix
--1	1	1	1	
--1	-1	1	1	
--1	-1	1	1	
--1	-1	-1	-1	
-Is Prefix?: kecr 
--1	-1	1	1	
--1	-1	1	1	
--1	1	1	1	
--1	-1	-1	-1	
-Is Prefix?: keca 
--1	-1	1	1	
--1	1	1	1	
--1	-1	1	1	
--1	-1	-1	-1	
-Is Prefix?: kecj 
--1	-1	1	1	
--1	-1	1	1	
--1	-1	1	1	
--1	-1	-1	1	
-Is Prefix?: kw 
-Yes kw is a prefix
--1	-1	1	1	
--1	-1	1	1	
--1	-1	1	1	
--1	-1	1	1	
-Is Prefix?: kwl 
--1	-1	1	1	
--1	-1	1	1	
--1	-1	1	1	
--1	-1	1	1	
-Is Prefix?: kl 
-Yes kl is a prefix
--1	-1	1	1	
--1	-1	1	1	
--1	1	1	1	
--1	-1	1	1	
-Is Prefix?: kla 
-Yes kla is a prefix
--1	-1	1	1	
-1	-1	1	1	
--1	1	1	1	
--1	-1	1	1	
-Is Prefix?: klaa 
--1	-1	1	1	
--1	1	1	1	
--1	1	1	1	
--1	-1	1	1	
-Is Prefix?: klaj 
--1	-1	1	1	
--1	-1	1	1	
--1	1	1	1	
--1	1	1	1	
-Is Prefix?: klae 
--1	-1	1	1	
--1	-1	1	1	
--1	1	1	1	
-1	-1	1	1	
-Is Prefix?: klaf 
--1	-1	1	1	
--1	-1	1	1	
-1	1	1	1	
--1	-1	1	1	
-Is Prefix?: klai 
--1	-1	1	1	
--1	-1	1	1	
--1	1	1	1	
--1	1	1	1	
-Is Prefix?: kle 
-Yes kle is a prefix
--1	-1	1	1	
--1	-1	1	1	
-1	1	1	1	
--1	1	1	1	
-Is Prefix?: klei 
--1	-1	1	1	
--1	-1	1	1	
--1	1	1	1	
-1	1	1	1	
-Is Prefix?: klef 
--1	-1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: m 
-Yes m is a prefix
--1	-1	-1	-1	
--1	-1	1	-1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: mc 
--1	-1	-1	-1	
--1	-1	-1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: me 
-Yes me is a prefix
--1	-1	1	-1	
--1	-1	-1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: mee 
-Yes mee is a prefix
--1	-1	1	1	
--1	-1	-1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: meed 
-Yes meed is a prefix
-YES meed is a word
-meed
--1	-1	1	1	
--1	-1	1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: meedc 
--1	-1	1	1	
--1	-1	1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: meec 
--1	-1	1	1	
--1	1	-1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: meej 
--1	1	1	1	
--1	-1	-1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: meer 
-Yes meer is a prefix
--1	1	1	1	
--1	-1	1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: meerc 
--1	1	1	1	
--1	1	-1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: meerj 
--1	1	1	1	
-1	-1	-1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: meera 
-1	1	1	1	
--1	-1	-1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: meert 
--1	1	1	1	
--1	-1	-1	1	
--1	-1	1	1	
--1	-1	-1	-1	
-Is Prefix?: mek 
--1	1	1	1	
--1	-1	1	1	
--1	-1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: mec 
-Yes mec is a prefix
--1	1	1	1	
--1	-1	1	1	
--1	-1	1	1	
--1	-1	-1	-1	
-Is Prefix?: meck 
--1	1	1	1	
--1	-1	1	1	
--1	1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: meca 
-Yes meca is a prefix
--1	1	1	1	
-1	-1	1	1	
--1	1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: mecaa 
--1	1	1	1	
--1	1	1	1	
--1	1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: mecaj 
--1	1	1	1	
--1	-1	1	1	
--1	1	1	1	
--1	-1	-1	-1	
-Is Prefix?: mecak 
--1	1	1	1	
--1	-1	1	1	
--1	1	-1	1	
--1	-1	1	-1	
-Is Prefix?: mecal 
--1	1	1	1	
--1	-1	1	1	
--1	1	-1	1	
--1	1	-1	-1	
-Is Prefix?: mecae 
--1	1	1	1	
--1	-1	1	1	
--1	1	-1	1	
-1	-1	-1	-1	
-Is Prefix?: mecaf 
--1	1	1	1	
--1	-1	1	1	
-1	1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: mecai 
--1	1	1	1	
--1	1	1	1	
--1	1	-1	1	
--1	-1	-1	-1	
-Is Prefix?: mecj 
--1	1	1	1	
--1	-1	1	1	
--1	1	-1	1	
--1	-1	-1	1	
-Is Prefix?: mw 
--1	1	1	1	
--1	-1	1	1	
--1	1	-1	1	
--1	-1	1	-1	
-Is Prefix?: ml 
--1	1	1	1	
--1	-1	1	1	
--1	1	1	1	
--1	-1	-1	-1	
-Is Prefix?: mk 
--1	-1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
-1	-1	-1	-1	
-Is Prefix?: f 
-Yes f is a prefix
--1	-1	-1	-1	
--1	-1	-1	-1	
-1	-1	-1	-1	
-1	-1	-1	-1	
-Is Prefix?: fi 
-Yes fi is a prefix
--1	-1	-1	-1	
-1	-1	-1	-1	
-1	-1	-1	-1	
-1	-1	-1	-1	
-Is Prefix?: fia 
-Yes fia is a prefix
-1	-1	-1	-1	
-1	-1	-1	-1	
-1	-1	-1	-1	
-1	-1	-1	-1	
-Is Prefix?: fiat 
-Yes fiat is a prefix
-YES fiat is a word
-fiat
-1	1	-1	-1	
-1	-1	-1	-1	
-1	-1	-1	-1	
-1	-1	-1	-1	
-Is Prefix?: fiatr 
-1	-1	-1	-1	
-1	1	-1	-1	
-1	-1	-1	-1	
-1	-1	-1	-1	
-Is Prefix?: fiatj 
-1	1	-1	-1	
-1	-1	-1	-1	
-1	-1	-1	-1	
-1	-1	-1	-1	
-Is Prefix?: fiar 
-Yes fiar is a prefix
-YES fiar is a word
-fiar
-1	1	1	-1	
-1	-1	-1	-1	
-1	-1	-1	-1	
-1	-1	-1	-1	
-Is Prefix?: fiare 
-1	1	-1	-1	
-1	-1	1	-1	
-1	-1	-1	-1	
-1	-1	-1	-1	
-Is Prefix?: fiarc 
-1	1	-1	-1	
-1	1	-1	-1	
-1	-1	-1	-1	
-1	-1	-1	-1	
-Is Prefix?: fiarj 
-1	1	-1	-1	
-1	1	-1	-1	
-1	-1	-1	-1	
-1	-1	-1	-1	
-Is Prefix?: fiaj 
-1	1	-1	-1	
-1	-1	-1	-1	
-1	1	-1	-1	
-1	-1	-1	-1	
-Is Prefix?: fiaa 
-1	1	-1	-1	
-1	1	-1	-1	
-1	-1	-1	-1	
-1	-1	-1	-1	
-Is Prefix?: fij 
-1	1	-1	-1	
-1	-1	-1	-1	
-1	1	-1	-1	
-1	-1	-1	-1	
-Is Prefix?: fia 
-Yes fia is a prefix
-1	1	-1	-1	
-1	1	-1	-1	
-1	1	-1	-1	
-1	-1	-1	-1	
-Is Prefix?: fiaj 
-1	1	-1	-1	
-1	-1	1	-1	
-1	1	-1	-1	
-1	-1	-1	-1	
-Is Prefix?: fiac 
-Yes fiac is a prefix
-1	1	1	-1	
-1	-1	1	-1	
-1	1	-1	-1	
-1	-1	-1	-1	
-Is Prefix?: fiace 
-1	1	-1	1	
-1	-1	1	-1	
-1	1	-1	-1	
-1	-1	-1	-1	
-Is Prefix?: fiacd 
-1	1	-1	-1	
-1	-1	1	1	
-1	1	-1	-1	
-1	-1	-1	-1	
-Is Prefix?: fiace 
-1	1	-1	-1	
-1	-1	1	-1	
-1	1	-1	1	
-1	-1	-1	-1	
-Is Prefix?: fiacm 
-1	1	-1	-1	
-1	-1	1	-1	
-1	1	1	-1	
-1	-1	-1	-1	
-Is Prefix?: fiack 
-1	1	-1	-1	
-1	1	1	-1	
-1	1	-1	-1	
-1	-1	-1	-1	
-Is Prefix?: fiacj 
-1	1	-1	-1	
-1	-1	1	-1	
-1	1	1	-1	
-1	-1	-1	-1	
-Is Prefix?: fiak 
-1	1	-1	-1	
-1	-1	1	-1	
-1	1	-1	-1	
-1	-1	1	-1	
-Is Prefix?: fial 
-1	1	-1	-1	
-1	-1	1	-1	
-1	1	-1	-1	
-1	1	-1	-1	
-Is Prefix?: fiae 
-1	1	-1	-1	
-1	-1	1	-1	
-1	1	-1	-1	
-1	1	-1	-1	
-Is Prefix?: fie 
-Yes fie is a prefix
-YES fie is a word
-fie
-1	1	-1	-1	
-1	-1	1	-1	
-1	1	1	-1	
-1	1	-1	-1	
-Is Prefix?: fiek 
-1	1	-1	-1	
-1	-1	1	-1	
-1	1	-1	-1	
-1	1	1	-1	
-Is Prefix?: fiel 
-Yes fiel is a prefix
-1	1	-1	-1	
-1	-1	1	-1	
-1	1	1	-1	
-1	1	1	-1	
-Is Prefix?: fielk 
-1	1	-1	-1	
-1	-1	1	-1	
-1	1	-1	1	
-1	1	1	-1	
-Is Prefix?: fielm 
-1	1	-1	-1	
-1	-1	1	-1	
-1	1	-1	-1	
-1	1	1	1	
-Is Prefix?: fielw 
--1	-1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
--1	1	-1	-1	
-Is Prefix?: e 
-Yes e is a prefix
--1	-1	-1	-1	
--1	-1	-1	-1	
-1	-1	-1	-1	
--1	1	-1	-1	
-Is Prefix?: ei 
-Yes ei is a prefix
--1	-1	-1	-1	
-1	-1	-1	-1	
-1	-1	-1	-1	
--1	1	-1	-1	
-Is Prefix?: eia 
--1	-1	-1	-1	
--1	1	-1	-1	
-1	-1	-1	-1	
--1	1	-1	-1	
-Is Prefix?: eij 
--1	-1	-1	-1	
--1	-1	-1	-1	
-1	1	-1	-1	
--1	1	-1	-1	
-Is Prefix?: eia 
--1	-1	-1	-1	
--1	-1	-1	-1	
-1	-1	-1	-1	
-1	1	-1	-1	
-Is Prefix?: eif 
--1	-1	-1	-1	
--1	-1	-1	-1	
-1	1	-1	-1	
--1	1	-1	-1	
-Is Prefix?: ea 
-Yes ea is a prefix
--1	-1	-1	-1	
-1	-1	-1	-1	
-1	1	-1	-1	
--1	1	-1	-1	
-Is Prefix?: eaa 
--1	-1	-1	-1	
--1	1	-1	-1	
-1	1	-1	-1	
--1	1	-1	-1	
-Is Prefix?: eaj 
--1	-1	-1	-1	
--1	-1	1	-1	
-1	1	-1	-1	
--1	1	-1	-1	
-Is Prefix?: eac 
-Yes eac is a prefix
--1	1	-1	-1	
--1	-1	1	-1	
-1	1	-1	-1	
--1	1	-1	-1	
-Is Prefix?: eacr 
--1	-1	1	-1	
--1	-1	1	-1	
-1	1	-1	-1	
--1	1	-1	-1	
-Is Prefix?: eace 
--1	-1	-1	1	
--1	-1	1	-1	
-1	1	-1	-1	
--1	1	-1	-1	
-Is Prefix?: eacd 
--1	-1	-1	-1	
--1	-1	1	1	
-1	1	-1	-1	
--1	1	-1	-1	
-Is Prefix?: eace 
--1	-1	-1	-1	
--1	-1	1	-1	
-1	1	-1	1	
--1	1	-1	-1	
-Is Prefix?: eacm 
--1	-1	-1	-1	
--1	-1	1	-1	
-1	1	1	-1	
--1	1	-1	-1	
-Is Prefix?: eack 
--1	-1	-1	-1	
--1	1	1	-1	
-1	1	-1	-1	
--1	1	-1	-1	
-Is Prefix?: eacj 
--1	-1	-1	-1	
--1	-1	1	-1	
-1	1	1	-1	
--1	1	-1	-1	
-Is Prefix?: eak 
--1	-1	-1	-1	
--1	-1	1	-1	
-1	1	-1	-1	
--1	1	1	-1	
-Is Prefix?: eal 
-Yes eal is a prefix
--1	-1	-1	-1	
--1	-1	1	-1	
-1	1	1	-1	
--1	1	1	-1	
-Is Prefix?: ealk 
--1	-1	-1	-1	
--1	-1	1	-1	
-1	1	-1	1	
--1	1	1	-1	
-Is Prefix?: ealm 
--1	-1	-1	-1	
--1	-1	1	-1	
-1	1	-1	-1	
--1	1	1	1	
-Is Prefix?: ealw 
--1	-1	-1	-1	
--1	-1	1	-1	
-1	1	-1	-1	
-1	1	1	-1	
-Is Prefix?: eaf 
--1	-1	-1	-1	
--1	-1	1	-1	
-1	1	1	-1	
--1	1	1	-1	
-Is Prefix?: ek 
-Yes ek is a prefix
--1	-1	-1	-1	
--1	1	1	-1	
-1	1	1	-1	
--1	1	1	-1	
-Is Prefix?: ekj 
--1	-1	-1	-1	
--1	-1	1	1	
-1	1	1	-1	
--1	1	1	-1	
-Is Prefix?: eke 
-Yes eke is a prefix
-YES eke is a word
+aal
+jee
+jeed
+jar
+jack
+jacked
+jake
+jake
+creed
+creek
+craal
+cede
+cee
+cee
+cede
+ceder
+cake
+caked
+cake
+cafe
+calk
+calked
+calm
+calmed
 eke
--1	-1	1	-1	
--1	-1	1	1	
-1	1	1	-1	
--1	1	1	-1	
-Is Prefix?: ekee 
--1	-1	-1	1	
--1	-1	1	1	
-1	1	1	-1	
--1	1	1	-1	
-Is Prefix?: eked 
-Yes eked is a prefix
-YES eked is a word
+ajee
+ajar
+acre
+acred
+ace
+aced
+ace
+aced
+ackee
+acme
+akee
+alme
+ale
+alef
+kaif
+kaf
+kae
+kale
+kea
+kef
+meed
+med
+fiat
+fiar
+fiacre
+fie
+face
+facer
+faced
+face
+faced
+fake
+fakeer
+faked
+fake
+feal
+eke
 eked
--1	-1	1	1	
--1	-1	1	1	
-1	1	1	-1	
--1	1	1	-1	
-Is Prefix?: ekede 
--1	-1	-1	1	
--1	-1	1	1	
-1	1	1	1	
--1	1	1	-1	
-Is Prefix?: ekem 
--1	-1	-1	1	
--1	-1	1	1	
-1	1	1	1	
--1	1	1	-1	
-Is Prefix?: ekm 
--1	-1	-1	1	
--1	-1	1	1	
-1	1	1	-1	
--1	1	1	1	
-Is Prefix?: ekw 
--1	-1	-1	1	
--1	-1	1	1	
-1	1	1	-1	
-1	1	1	-1	
-Is Prefix?: ef 
-Yes ef is a prefix
--1	-1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
--1	-1	1	-1	
-Is Prefix?: l 
-Yes l is a prefix
--1	-1	-1	-1	
--1	-1	-1	-1	
--1	1	-1	-1	
--1	-1	1	-1	
-Is Prefix?: la 
-Yes la is a prefix
--1	-1	-1	-1	
-1	-1	-1	-1	
--1	1	-1	-1	
--1	-1	1	-1	
-Is Prefix?: laa 
-Yes laa is a prefix
-1	-1	-1	-1	
-1	-1	-1	-1	
--1	1	-1	-1	
--1	-1	1	-1	
-Is Prefix?: laat 
--1	1	-1	-1	
-1	-1	-1	-1	
--1	1	-1	-1	
--1	-1	1	-1	
-Is Prefix?: laar 
-Yes laar is a prefix
--1	1	1	-1	
-1	-1	-1	-1	
--1	1	-1	-1	
--1	-1	1	-1	
-Is Prefix?: laare 
--1	1	-1	-1	
-1	-1	1	-1	
--1	1	-1	-1	
--1	-1	1	-1	
-Is Prefix?: laarc 
--1	1	-1	-1	
-1	1	-1	-1	
--1	1	-1	-1	
--1	-1	1	-1	
-Is Prefix?: laarj 
-1	1	-1	-1	
-1	-1	-1	-1	
--1	1	-1	-1	
--1	-1	1	-1	
-Is Prefix?: laart 
--1	1	-1	-1	
-1	1	-1	-1	
--1	1	-1	-1	
--1	-1	1	-1	
-Is Prefix?: laaj 
--1	1	-1	-1	
-1	-1	-1	-1	
-1	1	-1	-1	
--1	-1	1	-1	
-Is Prefix?: laai 
--1	1	-1	-1	
-1	1	-1	-1	
--1	1	-1	-1	
--1	-1	1	-1	
-Is Prefix?: laj 
--1	1	-1	-1	
-1	-1	1	-1	
--1	1	-1	-1	
--1	-1	1	-1	
-Is Prefix?: lac 
-Yes lac is a prefix
-YES lac is a word
+elk
+elm
 lac
--1	1	1	-1	
-1	-1	1	-1	
--1	1	-1	-1	
--1	-1	1	-1	
-Is Prefix?: lace 
-Yes lace is a prefix
-YES lace is a word
 lace
--1	1	1	1	
-1	-1	1	-1	
--1	1	-1	-1	
--1	-1	1	-1	
-Is Prefix?: laced 
-Yes laced is a prefix
-YES laced is a word
+lacer
 laced
--1	1	1	1	
-1	-1	1	1	
--1	1	-1	-1	
--1	-1	1	-1	
-Is Prefix?: lacede 
--1	1	1	1	
-1	-1	1	1	
--1	1	-1	-1	
--1	-1	1	-1	
-Is Prefix?: lacee 
--1	1	1	1	
-1	1	1	-1	
--1	1	-1	-1	
--1	-1	1	-1	
-Is Prefix?: lacej 
--1	1	1	1	
-1	-1	1	1	
--1	1	-1	-1	
--1	-1	1	-1	
-Is Prefix?: lace 
-Yes lace is a prefix
-YES lace is a word
 lace
--1	1	1	1	
-1	-1	1	1	
--1	1	-1	1	
--1	-1	1	-1	
-Is Prefix?: lacem 
--1	1	1	1	
-1	-1	1	1	
--1	1	1	-1	
--1	-1	1	-1	
-Is Prefix?: lacek 
--1	1	1	1	
-1	-1	1	1	
--1	1	-1	1	
--1	-1	1	-1	
-Is Prefix?: lacm 
--1	1	1	1	
-1	-1	1	1	
--1	1	1	-1	
--1	-1	1	-1	
-Is Prefix?: lack 
-Yes lack is a prefix
-YES lack is a word
+laced
 lack
--1	1	1	1	
-1	1	1	1	
--1	1	1	-1	
--1	-1	1	-1	
-Is Prefix?: lackj 
--1	1	1	1	
-1	-1	1	1	
--1	1	1	1	
--1	-1	1	-1	
-Is Prefix?: lackm 
--1	1	1	1	
-1	-1	1	1	
--1	1	1	-1	
--1	-1	1	1	
-Is Prefix?: lackw 
--1	1	1	1	
-1	-1	1	1	
--1	1	1	-1	
--1	1	1	-1	
-Is Prefix?: lacke 
-Yes lacke is a prefix
--1	1	1	1	
-1	-1	1	1	
-1	1	1	-1	
--1	1	1	-1	
-Is Prefix?: lackei 
--1	1	1	1	
-1	-1	1	1	
--1	1	1	-1	
-1	1	1	-1	
-Is Prefix?: lackef 
--1	1	1	1	
-1	1	1	1	
--1	1	1	-1	
--1	1	1	-1	
-Is Prefix?: lacj 
--1	1	1	1	
-1	-1	1	1	
--1	1	1	-1	
-1	1	1	-1	
-Is Prefix?: laf 
--1	1	1	1	
-1	-1	1	1	
-1	1	1	-1	
--1	1	1	-1	
-Is Prefix?: lai 
-Yes lai is a prefix
--1	1	1	1	
-1	1	1	1	
-1	1	1	-1	
--1	1	1	-1	
-Is Prefix?: laij 
--1	1	1	1	
-1	-1	1	1	
-1	1	1	-1	
-1	1	1	-1	
-Is Prefix?: laif 
--1	1	1	1	
-1	-1	1	1	
-1	1	1	1	
--1	1	1	-1	
-Is Prefix?: lm 
--1	1	1	1	
-1	-1	1	1	
-1	1	1	-1	
--1	1	1	1	
-Is Prefix?: lw 
-Yes lw is a prefix
--1	1	1	1	
-1	-1	1	1	
-1	1	1	1	
--1	1	1	1	
-Is Prefix?: lwm 
--1	-1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	1	
-Is Prefix?: w 
-Yes w is a prefix
--1	-1	-1	-1	
--1	-1	-1	-1	
--1	-1	1	-1	
--1	-1	-1	1	
-Is Prefix?: wk 
--1	-1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	1	
--1	-1	-1	1	
-Is Prefix?: wm 
--1	-1	-1	-1	
--1	-1	-1	-1	
--1	-1	-1	-1	
--1	-1	1	1	
-Is Prefix?: wl 
+lacked
+lake
+laked
+lake
+lei
+lea
+leak
+leaked
+leaf
+lek
+leke
+MADE IT
