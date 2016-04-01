@@ -8,8 +8,8 @@
 
 // For DX and DY Arrays.
 const int DX_SIZE = 8;
-const int DX[] = {-1,-1,-1,0,0,1,1,1};
-const int DY[] = {-1,0,1,-1,1,-1,0,1};
+const int DX[] = {-1,-1,-1,0,1,1,1,0};
+const int DY[] = {-1,0,1,1,1,0,-1,-1};
 
 typedef struct TrieNode {
 	int isWord;
@@ -26,11 +26,12 @@ int isPrefix(TrieNode *root, char *str);
 int **visitedArray(void);
 void findWords(TrieNode *root, int **visitedArray, char **board, int curX, int curY, int k, char *string);
 int isWord(TrieNode *root, char *str);
+void print2DIntArray(int **board);
 
 int main(void)
 {
     // Declaring variables.
-    int numWords, numCases, i, len, **visited;
+    int numWords, numCases, i,j,k, len, **visited;
     char temp[17];
     char **board;
 
@@ -67,7 +68,15 @@ int main(void)
         print2DArray(board);
 
 		// Finds words in the boggle puzzle and prints them out.
-		findWords(root, visited, board, 0, 0, 0, string);
+		for (j = 0; j < BOARD_SIZE; j++)
+		{
+            for (k = 0; k < BOARD_SIZE; k++)
+            {
+                findWords(root, visited, board, j, k, 0, string);
+                visited = visitedArray();
+            }
+
+		}
     }
 
 
@@ -77,46 +86,40 @@ int main(void)
 
 void findWords(TrieNode *root, int **visitedArray, char **board, int curX, int curY, int k, char *string)
 {
-	int i, rows, cols, newX, newY;
+	int i, newX, newY;
 
-	visitedArray[curX][curY] = 1;
 	string[k] = board[curX][curY];
-	//printf("Made it #1\n");
+	string[k+1] = '\0';
+	visitedArray[curX][curY] = 1;
 
-    for (rows = 0; rows < BOARD_SIZE; rows++)
+    print2DIntArray(visitedArray);
+
+    printf("Is Prefix?: %s \n", string);
+    if (isPrefix(root, string))
     {
-        for (cols = 0; cols < BOARD_SIZE; cols++)
+        printf("Yes %s is a prefix\n", string);
+        if(isWord(root, string))
         {
-            for (i = 0; i < DX_SIZE; i++)
-            {
-                newX = rows + DX[i];
-                newY = rows + DY[i];
-
-                if (inBounds(newX, newY) == 0)
-                    continue;
-                /*
-                printf("Made it #2\n");
-                printf("NewX: %d NewY: %d\n", newX, newY);
-                printf("New Letter: %c", board[newX][newY]);
-                printf("%s\n", string);
-                */
-                string[k+1] = board[newX][newY];
-                string[k+2] = '\0';
-
-                //printf("Made it #3\n");
-
-                if (isPrefix(root, string))
-                {
-                    //printf("Made it #4");
-                    if(isWord(root, string))
-                        printf("%s\n", string);
-                    findWords(root, visitedArray, board, newX, newY, k+1, string);
-                }
-                else return;
-            }
+            printf("YES %s is a word\n", string);
+            printf("%s\n", string);
+            //visitedArray[curX][curY] = -1;
         }
-	}
+    }
+    else
+    {
+        visitedArray[curX][curY] = -1;
+        return;
+    }
 
+    for (i = 0; i < DX_SIZE; i++)
+    {
+        newX = curX + DX[i];
+        newY = curY + DY[i];
+
+        if (inBounds(newX, newY) == 0 || visitedArray[newX][newY] != -1)
+            continue;
+        findWords(root, visitedArray, board, newX, newY, k+1, string);
+    }
 }
 
 // Mallocs space and initializes a TrieNode.
@@ -241,6 +244,20 @@ void print2DArray(char **board)
         for (j = 0; j < BOARD_SIZE; j++)
         {
             printf("%c ", board[i][j]);
+        }
+        printf("\n");
+    }
+}
+
+void print2DIntArray(int **board)
+{
+    int i, j;
+
+    for (i = 0; i < BOARD_SIZE; i++)
+    {
+        for (j = 0; j < BOARD_SIZE; j++)
+        {
+            printf("%d\t", board[i][j]);
         }
         printf("\n");
     }
