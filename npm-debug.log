@@ -1,0 +1,194 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/nodejs',
+1 verbose cli   '/usr/bin/npm',
+1 verbose cli   'install',
+1 verbose cli   '-g',
+1 verbose cli   'diffchecker' ]
+2 info using npm@2.14.20
+3 info using node@v4.4.1
+4 verbose install initial load of /usr/lib/package.json
+5 verbose readDependencies loading dependencies from /usr/lib/package.json
+6 silly cache add args [ 'diffchecker', null ]
+7 verbose cache add spec diffchecker
+8 silly cache add parsed spec Result {
+8 silly cache add   raw: 'diffchecker',
+8 silly cache add   scope: null,
+8 silly cache add   name: 'diffchecker',
+8 silly cache add   rawSpec: '',
+8 silly cache add   spec: 'latest',
+8 silly cache add   type: 'tag' }
+9 silly addNamed diffchecker@latest
+10 verbose addNamed "latest" is being treated as a dist-tag for diffchecker
+11 info addNameTag [ 'diffchecker', 'latest' ]
+12 silly mapToRegistry name diffchecker
+13 silly mapToRegistry using default registry
+14 silly mapToRegistry registry https://registry.npmjs.org/
+15 silly mapToRegistry uri https://registry.npmjs.org/diffchecker
+16 verbose addNameTag registry:https://registry.npmjs.org/diffchecker not in flight; fetching
+17 verbose request uri https://registry.npmjs.org/diffchecker
+18 verbose request no auth needed
+19 info attempt registry request try #1 at 11:37:32 AM
+20 verbose request id 7483d95a8699680b
+21 http request GET https://registry.npmjs.org/diffchecker
+22 http 200 https://registry.npmjs.org/diffchecker
+23 verbose headers { server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+23 verbose headers   etag: '"BY4AD4HIFLH5HAF25G1N03481"',
+23 verbose headers   'content-type': 'application/json',
+23 verbose headers   'cache-control': 'max-age=300',
+23 verbose headers   'content-length': '8090',
+23 verbose headers   'accept-ranges': 'bytes',
+23 verbose headers   date: 'Sat, 02 Apr 2016 15:37:32 GMT',
+23 verbose headers   via: '1.1 varnish',
+23 verbose headers   age: '0',
+23 verbose headers   connection: 'keep-alive',
+23 verbose headers   'x-served-by': 'cache-jfk1030-JFK',
+23 verbose headers   'x-cache': 'MISS',
+23 verbose headers   'x-cache-hits': '0',
+23 verbose headers   'x-timer': 'S1459611452.869989,VS0,VE22',
+23 verbose headers   vary: 'Accept' }
+24 silly get cb [ 200,
+24 silly get   { server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+24 silly get     etag: '"BY4AD4HIFLH5HAF25G1N03481"',
+24 silly get     'content-type': 'application/json',
+24 silly get     'cache-control': 'max-age=300',
+24 silly get     'content-length': '8090',
+24 silly get     'accept-ranges': 'bytes',
+24 silly get     date: 'Sat, 02 Apr 2016 15:37:32 GMT',
+24 silly get     via: '1.1 varnish',
+24 silly get     age: '0',
+24 silly get     connection: 'keep-alive',
+24 silly get     'x-served-by': 'cache-jfk1030-JFK',
+24 silly get     'x-cache': 'MISS',
+24 silly get     'x-cache-hits': '0',
+24 silly get     'x-timer': 'S1459611452.869989,VS0,VE22',
+24 silly get     vary: 'Accept' } ]
+25 verbose get saving diffchecker to /home/wyatt/.npm/registry.npmjs.org/diffchecker/.cache.json
+26 verbose correctMkdir /home/wyatt/.npm correctMkdir not in flight; initializing
+27 silly addNameTag next cb for diffchecker with tag latest
+28 silly addNamed diffchecker@0.1.4
+29 verbose addNamed "0.1.4" is a plain semver version for diffchecker
+30 silly mapToRegistry name diffchecker
+31 silly mapToRegistry using default registry
+32 silly mapToRegistry registry https://registry.npmjs.org/
+33 silly mapToRegistry uri https://registry.npmjs.org/diffchecker
+34 verbose addRemoteTarball https://registry.npmjs.org/diffchecker/-/diffchecker-0.1.4.tgz not in flight; adding
+35 verbose addRemoteTarball [ 'https://registry.npmjs.org/diffchecker/-/diffchecker-0.1.4.tgz',
+35 verbose addRemoteTarball   'b04aa7f8150f10c2b79565c7f90ac7c393d177f8' ]
+36 info retry fetch attempt 1 at 11:37:32 AM
+37 info attempt registry request try #1 at 11:37:32 AM
+38 http fetch GET https://registry.npmjs.org/diffchecker/-/diffchecker-0.1.4.tgz
+39 http fetch 200 https://registry.npmjs.org/diffchecker/-/diffchecker-0.1.4.tgz
+40 silly fetchAndShaCheck shasum b04aa7f8150f10c2b79565c7f90ac7c393d177f8
+41 verbose addTmpTarball /tmp/npm-5162-66947535/registry.npmjs.org/diffchecker/-/diffchecker-0.1.4.tgz not in flight; adding
+42 verbose addTmpTarball already have metadata; skipping unpack for diffchecker@0.1.4
+43 verbose correctMkdir /home/wyatt/.npm correctMkdir not in flight; initializing
+44 silly cache afterAdd diffchecker@0.1.4
+45 verbose afterAdd /home/wyatt/.npm/diffchecker/0.1.4/package/package.json not in flight; writing
+46 verbose correctMkdir /home/wyatt/.npm correctMkdir not in flight; initializing
+47 verbose afterAdd /home/wyatt/.npm/diffchecker/0.1.4/package/package.json written
+48 silly install resolved [ { name: 'diffchecker',
+48 silly install resolved     homepage: 'https://diffchecker.com/cli',
+48 silly install resolved     bin: { diffchecker: './dist/diffchecker.js' },
+48 silly install resolved     preferGlobal: true,
+48 silly install resolved     engines: { node: '>=0.12.7' },
+48 silly install resolved     version: '0.1.4',
+48 silly install resolved     description: 'Command line tool for Diffchecker.',
+48 silly install resolved     main: 'dist/diffchecker.js',
+48 silly install resolved     repository:
+48 silly install resolved      { type: 'git',
+48 silly install resolved        url: 'git+https://github.com/wali-s/diffchecker-cli.git' },
+48 silly install resolved     scripts:
+48 silly install resolved      { compile: 'mkdir -p dist && API_URL=https://diffchecker-api-production.herokuapp.com GA_ID=UA-8857839-4 GA_DOMAIN=http://www.diffchecker.com babel --plugins transform-inline-environment-variables src --out-dir dist',
+48 silly install resolved        compile_windows: 'del dist&&mkdir dist&&set API_URL=https://diffchecker-api-production.herokuapp.com&&set GA_ID=UA-8857839-4&&set GA_DOMAIN=http://www.diffchecker.com&&babel --plugins transform-inline-environment-variables src --out-dir dist',
+48 silly install resolved        prepublish: 'npm run compile',
+48 silly install resolved        test: 'npm run compile && node dist/diffchecker.js test/file1.js test/file2.js' },
+48 silly install resolved     keywords: [ 'diff', 'diffchecker' ],
+48 silly install resolved     contributors: [ [Object], [Object] ],
+48 silly install resolved     license: 'MIT',
+48 silly install resolved     devDependencies:
+48 silly install resolved      { babel: '^6.3.26',
+48 silly install resolved        'babel-cli': '^6.4.0',
+48 silly install resolved        'babel-core': '^6.3.26',
+48 silly install resolved        'babel-plugin-transform-inline-environment-variables': '^6.3.13',
+48 silly install resolved        'babel-preset-es2015': '^6.3.13',
+48 silly install resolved        eslint: '^1.10.3',
+48 silly install resolved        'eslint-config-airbnb': '^2.1.1',
+48 silly install resolved        'eslint-plugin-react': '^3.13.1' },
+48 silly install resolved     dependencies:
+48 silly install resolved      { 'es6-promise': '^3.1.2',
+48 silly install resolved        ga: '0.0.2',
+48 silly install resolved        'git-fs': '0.0.11',
+48 silly install resolved        'highlight.js': '^9.1.0',
+48 silly install resolved        opener: '^1.4.1',
+48 silly install resolved        prompt: '^0.2.14',
+48 silly install resolved        superagent: '^1.6.1',
+48 silly install resolved        yargs: '^3.31.0' },
+48 silly install resolved     gitHead: '6c0e6d7681623670aabab42aa3fb28dca4ec35a2',
+48 silly install resolved     bugs: { url: 'https://github.com/wali-s/diffchecker-cli/issues' },
+48 silly install resolved     _id: 'diffchecker@0.1.4',
+48 silly install resolved     _shasum: 'b04aa7f8150f10c2b79565c7f90ac7c393d177f8',
+48 silly install resolved     _from: 'diffchecker@latest',
+48 silly install resolved     _npmVersion: '3.7.1',
+48 silly install resolved     _nodeVersion: '5.5.0',
+48 silly install resolved     _npmUser: { name: 'wali-s', email: 'ahmad@sidiqi.net' },
+48 silly install resolved     dist:
+48 silly install resolved      { shasum: 'b04aa7f8150f10c2b79565c7f90ac7c393d177f8',
+48 silly install resolved        tarball: 'https://registry.npmjs.org/diffchecker/-/diffchecker-0.1.4.tgz' },
+48 silly install resolved     maintainers: [ [Object] ],
+48 silly install resolved     _npmOperationalInternal:
+48 silly install resolved      { host: 'packages-12-west.internal.npmjs.com',
+48 silly install resolved        tmp: 'tmp/diffchecker-0.1.4.tgz_1458848003865_0.2933793757110834' },
+48 silly install resolved     directories: {},
+48 silly install resolved     _resolved: 'https://registry.npmjs.org/diffchecker/-/diffchecker-0.1.4.tgz' } ]
+49 info install diffchecker@0.1.4 into /usr/lib
+50 info installOne diffchecker@0.1.4
+51 verbose installOne of diffchecker to /usr/lib not in flight; installing
+52 verbose correctMkdir /home/wyatt/.npm/_locks correctMkdir not in flight; initializing
+53 verbose lock using /home/wyatt/.npm/_locks/diffchecker-9753922886ad0e6c.lock for /usr/lib/node_modules/diffchecker
+54 silly install write writing diffchecker 0.1.4 to /usr/lib/node_modules/diffchecker
+55 verbose unbuild lib/node_modules/diffchecker
+56 silly gentlyRm /usr/lib/node_modules/diffchecker is being purged from base /usr
+57 verbose gentlyRm don't care about contents; nuking /usr/lib/node_modules/diffchecker
+58 verbose tar unpack /home/wyatt/.npm/diffchecker/0.1.4/package.tgz
+59 verbose tar unpacking to /usr/lib/node_modules/diffchecker
+60 silly gentlyRm /usr/lib/node_modules/diffchecker is being purged
+61 verbose gentlyRm don't care about contents; nuking /usr/lib/node_modules/diffchecker
+62 silly gunzTarPerm modes [ '755', '644' ]
+63 error tar.unpack untar error /home/wyatt/.npm/diffchecker/0.1.4/package.tgz
+64 verbose unlock done using /home/wyatt/.npm/_locks/diffchecker-9753922886ad0e6c.lock for /usr/lib/node_modules/diffchecker
+65 verbose fstream_path /usr/lib/node_modules/diffchecker
+66 verbose fstream_type Directory
+67 verbose fstream_class DirWriter
+68 verbose stack Error: EACCES: permission denied, mkdir '/usr/lib/node_modules/diffchecker'
+68 verbose stack     at Error (native)
+69 verbose fstream_stack /usr/lib/node_modules/npm/node_modules/fstream/lib/dir-writer.js:35:25
+69 verbose fstream_stack /usr/lib/node_modules/npm/node_modules/mkdirp/index.js:47:53
+69 verbose fstream_stack FSReqWrap.oncomplete (fs.js:82:15)
+70 verbose cwd /home/wyatt/Dropbox/spring-2016/Guha/boggle
+71 error Linux 3.16.0-38-generic
+72 error argv "/usr/bin/nodejs" "/usr/bin/npm" "install" "-g" "diffchecker"
+73 error node v4.4.1
+74 error npm  v2.14.20
+75 error path /usr/lib/node_modules/diffchecker
+76 error code EACCES
+77 error errno -13
+78 error syscall mkdir
+79 error Error: EACCES: permission denied, mkdir '/usr/lib/node_modules/diffchecker'
+79 error     at Error (native)
+79 error  { [Error: EACCES: permission denied, mkdir '/usr/lib/node_modules/diffchecker']
+79 error   errno: -13,
+79 error   code: 'EACCES',
+79 error   syscall: 'mkdir',
+79 error   path: '/usr/lib/node_modules/diffchecker',
+79 error   fstream_type: 'Directory',
+79 error   fstream_path: '/usr/lib/node_modules/diffchecker',
+79 error   fstream_class: 'DirWriter',
+79 error   fstream_stack:
+79 error    [ '/usr/lib/node_modules/npm/node_modules/fstream/lib/dir-writer.js:35:25',
+79 error      '/usr/lib/node_modules/npm/node_modules/mkdirp/index.js:47:53',
+79 error      'FSReqWrap.oncomplete (fs.js:82:15)' ] }
+80 error Please try running this command again as root/Administrator.
+81 verbose exit [ -13, true ]
+82 verbose unbuild lib/node_modules/diffchecker
+83 silly gentlyRm /usr/lib/node_modules/diffchecker is being purged from base /usr
+84 verbose gentlyRm don't care about contents; nuking /usr/lib/node_modules/diffchecker

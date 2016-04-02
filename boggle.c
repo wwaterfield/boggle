@@ -16,23 +16,23 @@ typedef struct TrieNode {
 	struct TrieNode *character[26];
 } TrieNode;
 
+void findWords(TrieNode *root, int **visitedArray, char **board, int curX, int curY, int k, char *string);
 TrieNode *createTrieNode(void);
 TrieNode *insertString(TrieNode *root, char *string);
-void freeTrie(TrieNode *root);
-char **readBoard(void);
-void print2DArray(char **board);
-int inBounds(int newX, int newY);
 int isPrefix(TrieNode *root, char *str);
-int **visitedArray(void);
-void findWords(TrieNode *root, int **visitedArray, char **board, int curX, int curY, int k, char *string);
 int isWord(TrieNode *root, char *str);
-void print2DIntArray(int **board);
+char **readBoard(void);
+int inBounds(int newX, int newY);
+int **visitedArray(void);
+void freeTrie(TrieNode *root);
+void free2DCharArray(char **array, int rows);
+void free2DIntArray(int **array, int rows);
 
 int main(void)
 {
     // Declaring variables.
     int numWords, numCases, i,j,k, len, **visited;
-    char temp[17];
+    char temp[STR_MAX+1];
     char **board;
 
     // Initializing the root node of the trie.
@@ -56,56 +56,62 @@ int main(void)
 
     for (i = 0; i < numCases; i++)
     {
-        char string[17];
+        char string[STR_MAX+1];
         string[0] = '\0';
-        // Read in each game board.
+
+        // Read in the game board.
         board = readBoard();
 
 		// Generate a visited array.
 		visited = visitedArray();
 
-        // Debug print board.
-        print2DArray(board);
 
-        printf("Words for Game #%d\n", i+1);
+        printf("Words for Game #%d:\n", i+1);
+
 		// Finds words in the boggle puzzle and prints them out.
 		for (j = 0; j < BOARD_SIZE; j++)
 		{
             for (k = 0; k < BOARD_SIZE; k++)
             {
                 findWords(root, visited, board, j, k, 0, string);
+                free2DIntArray(visited, BOARD_SIZE);
                 visited = visitedArray();
             }
 
 		}
+
 		printf("\n\n");
+
+		// Freeing up memory.
+		free2DIntArray(visited, BOARD_SIZE);
+		free2DCharArray(board, BOARD_SIZE);
     }
 
+    // Free the trie.
+    freeTrie(root);
+    fclose(ifp);
 
 	return 0;
 }
 
 void findWords(TrieNode *root, int **visitedArray, char **board, int curX, int curY, int k, char *string)
 {
+    // Declaring variables.
 	int i, newX, newY;
 
+    // Adding the current letter to the end of the string.
 	string[k] = board[curX][curY];
 	string[k+1] = '\0';
 	visitedArray[curX][curY]=-1;
 
-    //print2DIntArray(visitedArray);
-
-    //printf("Is Prefix?: %s \n", string);
+	// If it's a prefix, also check if it's a word.
     if (isPrefix(root, string))
     {
+        // Mark the visited array and check if string is a word.
         visitedArray[curX][curY] = 1;
-        //printf("Yes %s is a prefix\n", string);
+
         if(isWord(root, string))
-        {
-            //printf("YES %s is a word\n", string);
             printf("%s\n", string);
-            //visitedArray[curX][curY] = -1;
-        }
     }
     else
     {
@@ -113,15 +119,22 @@ void findWords(TrieNode *root, int **visitedArray, char **board, int curX, int c
         return;
     }
 
+    // Look through all of the adjacent characters in the board.
     for (i = 0; i < DX_SIZE; i++)
     {
+        // Set newX and newY
         newX = curX + DX[i];
         newY = curY + DY[i];
 
+        // If newX or newY are out of bounds,
+        // move on to the next iteration.
         if (inBounds(newX, newY) == 0 || visitedArray[newX][newY] != -1)
             continue;
+
         findWords(root, visitedArray, board, newX, newY, k+1, string);
     }
+
+    // Once a path has been checked, reset the visited array.
     visitedArray[curX][curY] = -1;
     return;
 }
@@ -132,10 +145,14 @@ TrieNode *createTrieNode(void)
 	int i;
 	TrieNode *newTrie = malloc(sizeof(TrieNode));
 
+    // If malloc fails, exit the program.
     if (newTrie == NULL)
         exit(-1);
+
+    // Initialize isWord.
 	newTrie->isWord = 0;
 
+    // Initialize each child node.
 	for (i = 0; i < 26; i++)
 		newTrie->character[i] = NULL;
 
@@ -149,9 +166,11 @@ TrieNode *insertString(TrieNode *root, char *str)
     int length = (int)strlen(str);
     TrieNode *temp = root;
 
+    // If root doesn't exist, create a node for root.
     if (root == NULL)
         root = temp = createTrieNode();
 
+    // Go through the trie, making nodes when necessary.
     for (i = 0; i < length; i++)
     {
         index = tolower(str[i]) - 'a';
@@ -162,6 +181,7 @@ TrieNode *insertString(TrieNode *root, char *str)
         temp = temp->character[index];
     }
 
+    // Change the last node to indicate a word.
     temp->isWord = 1;
 
     return root;
@@ -174,6 +194,7 @@ int isPrefix(TrieNode *root, char *str)
 	int length = strlen(str);
 	TrieNode *temp = root;
 
+    // If we don't hit a NULL, the string must be a word or prefix.
 	for (i = 0; i < length; i++)
 	{
 		index = tolower(str[i]) - 'a';
@@ -191,13 +212,12 @@ int isWord(TrieNode *root, char *str)
 {
 	int i, index;
 	int length = strlen(str);
-
 	TrieNode *temp = root;
+
+	// Traverse through the trie.
 	for (i = 0; i < length; i++)
 	{
 		index = tolower(str[i]) - 'a';
-		//printf("Indx: %d\n", index);
-
 
 		if(temp->character[index] == NULL)
 		{
@@ -206,20 +226,10 @@ int isWord(TrieNode *root, char *str)
         }
 		temp = temp->character[index];
 	}
+
+	// Return if the string is a word.
 	if (temp->isWord == 1)
 		return 1;
-}
-
-// Frees the memory associated with the trie.
-void freeTrie(TrieNode *root)
-{
-    int i;
-    if (root == NULL)
-        return;
-
-    for (i = 0; i < 26; i++)
-        freeTrie(root->character[i]);
-    free(root);
 }
 
 // Scans in the Boggle board from stdin and
@@ -239,35 +249,8 @@ char **readBoard(void)
     return board;
 }
 
-void print2DArray(char **board)
-{
-    int i, j;
 
-    for (i = 0; i < BOARD_SIZE; i++)
-    {
-        for (j = 0; j < BOARD_SIZE; j++)
-        {
-            printf("%c ", board[i][j]);
-        }
-        printf("\n");
-    }
-}
-
-void print2DIntArray(int **board)
-{
-    int i, j;
-
-    for (i = 0; i < BOARD_SIZE; i++)
-    {
-        for (j = 0; j < BOARD_SIZE; j++)
-        {
-            printf("%d\t", board[i][j]);
-        }
-        printf("\n");
-    }
-}
-
-// Determines if a given set of coordinates is out of boundss
+// Determines if a given set of coordinates is out of bounds
 int inBounds(int newX, int newY)
 {
 	if (newX > BOARD_SIZE - 1 || newX < 0 || newY > BOARD_SIZE -1 || newY < 0)
@@ -275,6 +258,7 @@ int inBounds(int newX, int newY)
 	else return 1;
 }
 
+// Mallocs and initializes a visited array.
 int **visitedArray(void)
 {
 	int i,j;
@@ -288,6 +272,46 @@ int **visitedArray(void)
 			visited[i][j] = -1;
 
 	return visited;
+}
+
+// Recursively frees a trie.
+void freeTrie(TrieNode *root)
+{
+    int i;
+
+    if (root == NULL)
+        return;
+    for (i = 0; i < 26; i++)
+        freeTrie(root->character[i]);
+
+    free(root);
+}
+
+// Frees a 2D Character array.
+void free2DCharArray(char **array, int rows)
+{
+    int i;
+
+    for (i = 0; i < rows; i++)
+        free(array[i]);
+
+    free(array);
+
+    return;
+
+}
+
+// Frees a 2D Int array.
+void free2DIntArray(int **array, int rows)
+{
+    int i;
+
+    for (i = 0; i < rows; i++)
+        free(array[i]);
+
+    free(array);
+
+    return;
 }
 
 
