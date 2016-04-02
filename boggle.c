@@ -67,6 +67,7 @@ int main(void)
         // Debug print board.
         print2DArray(board);
 
+        printf("Words for Game #%d\n", i+1);
 		// Finds words in the boggle puzzle and prints them out.
 		for (j = 0; j < BOARD_SIZE; j++)
 		{
@@ -77,7 +78,7 @@ int main(void)
             }
 
 		}
-		printf("MADE IT");
+		printf("\n\n");
     }
 
 
